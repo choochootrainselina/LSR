@@ -1815,3 +1815,1663 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.04-06.53.56:958][750]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.29ms to complete.
 [2023.02.04-06.53.56:958][750]LogFileHelpers: Loading map 'vfx_LVL' took 0.163
 [2023.02.04-06.54.03:866][421]LogEditorViewport: Clicking Background
+[2023.02.04-06.55.26:865][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.02.04-06.55.26:869][819]LogAssetEditorSubsystem: Opening Asset editor for World /Game/material/vfx_LVL.vfx_LVL
+[2023.02.04-06.55.26:869][819]Cmd: MAP LOAD FILE="../../../../LSR/LSR/Content/material/vfx_LVL.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.04-06.55.26:869][819]LightingResults: New page: Lighting Build
+[2023.02.04-06.55.26:869][819]LoadErrors: New page: Loading map: vfx_LVL.umap
+[2023.02.04-06.55.26:897][819]LogWorld: UWorld::CleanupWorld for vfx_LVL, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-06.55.26:897][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-06.55.26:897][819]MapCheck: New page: Map Check
+[2023.02.04-06.55.26:897][819]LightingResults: New page: Lighting Build
+[2023.02.04-06.55.26:906][819]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-06.55.26:907][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.02.04-06.55.26:908][819]LogAudio: Display: Audio Device (ID: 1) registered with world 'vfx_LVL'.
+[2023.02.04-06.55.26:908][819]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-06.55.26:909][819]LogAIModule: Creating AISystem for world vfx_LVL
+[2023.02.04-06.55.26:917][819]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.04-06.55.26:927][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.02.04-06.55.26:931][819]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.04-06.55.26:931][819]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.208ms to complete.
+[2023.02.04-06.55.26:931][819]LogFileHelpers: Loading map 'vfx_LVL' took 0.062
+[2023.02.04-06.57.10:677][618]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.02.04-06.57.10:677][618]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.02.04-06.57.18:092][307]LogEditorViewport: Clicking Background
+[2023.02.04-06.57.18:762][367]LogViewport: Scene viewport resized to 1016x421, mode Windowed.
+[2023.02.04-06.57.18:792][367]LogViewport: Scene viewport resized to 1016x421, mode Windowed.
+[2023.02.04-06.57.18:817][367]LogViewport: Scene viewport resized to 1016x421, mode Windowed.
+[2023.02.04-06.57.18:841][367]LogViewport: Scene viewport resized to 1831x760, mode Windowed.
+[2023.02.04-06.57.18:875][368]LogViewport: Scene viewport resized to 1061x439, mode Windowed.
+[2023.02.04-06.57.18:909][369]LogViewport: Scene viewport resized to 1022x423, mode Windowed.
+[2023.02.04-06.57.18:950][370]LogViewport: Scene viewport resized to 1016x421, mode Windowed.
+[2023.02.04-06.57.21:178][560]LogEditorViewport: Clicking Background
+[2023.02.04-06.57.22:389][666]LogViewport: Scene viewport resized to 1363x565, mode Windowed.
+[2023.02.04-06.57.22:423][667]LogViewport: Scene viewport resized to 1782x740, mode Windowed.
+[2023.02.04-06.57.22:497][668]LogViewport: Scene viewport resized to 2034x844, mode Windowed.
+[2023.02.04-06.57.22:552][669]LogViewport: Scene viewport resized to 2038x846, mode Windowed.
+[2023.02.04-06.57.30:561][442]LogEditorViewport: Clicking Background
+[2023.02.04-06.57.36:691][ 53]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.02.04-06.57.48:342][ 58]LogEditorViewport: Clicking Background
+[2023.02.04-06.58.59:809][799]LogViewport: Scene viewport resized to 1564x846, mode Windowed.
+[2023.02.04-06.59.07:798][476]LogShaderCompilers: Display: ================================================
+[2023.02.04-06.59.07:798][476]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.04-06.59.07:799][476]LogShaderCompilers: Display: Total job queries 216, among them cache hits 53 (24.54%)
+[2023.02.04-06.59.07:799][476]LogShaderCompilers: Display: Tracking 144 distinct input hashes that result in 112 distinct outputs (77.78%)
+[2023.02.04-06.59.07:799][476]LogShaderCompilers: Display: RAM used: 0.45 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.05%
+[2023.02.04-06.59.07:799][476]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.04-06.59.07:799][476]LogShaderCompilers: Display: Shaders Compiled: 144
+[2023.02.04-06.59.07:799][476]LogShaderCompilers: Display: Jobs assigned 151, completed 144 (95.36%)
+[2023.02.04-06.59.07:799][476]LogShaderCompilers: Display: Average time worker was idle: 41.89 s
+[2023.02.04-06.59.07:799][476]LogShaderCompilers: Display: Time job spent in pending queue: average 8.49 s, longest 64.45 s
+[2023.02.04-06.59.07:799][476]LogShaderCompilers: Display: Job execution time: average 21.11 s, max 102.35 s
+[2023.02.04-06.59.07:799][476]LogShaderCompilers: Display: Job life time (pending + execution): average 30.01 s, max 103.72
+[2023.02.04-06.59.07:799][476]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 117.86 s
+[2023.02.04-06.59.07:799][476]LogShaderCompilers: Display: Jobs were issued in 113 batches (only local compilation was used), average 1.34 jobs/batch
+[2023.02.04-06.59.07:799][476]LogShaderCompilers: Display: Average processing rate: 1.22 jobs/sec
+[2023.02.04-06.59.07:799][476]LogShaderCompilers: Display: Total thread time: 728.44 s
+[2023.02.04-06.59.07:799][476]LogShaderCompilers: Display: Total thread preprocess time: 13.30 s
+[2023.02.04-06.59.07:799][476]LogShaderCompilers: Display: Percentage time preprocessing: 1.83%
+[2023.02.04-06.59.07:799][476]LogShaderCompilers: Display: Effective parallelization: 6.18 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.04-06.59.07:799][476]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.04-06.59.07:799][476]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 29.98 sec, max 29.98 sec, min 29.98 sec)
+[2023.02.04-06.59.07:799][476]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 27.59 sec, max 27.59 sec, min 27.59 sec)
+[2023.02.04-06.59.07:799][476]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 22.12 sec, max 45.28 sec, min 6.18 sec)
+[2023.02.04-06.59.07:799][476]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 19.63 sec, max 19.63 sec, min 19.63 sec)
+[2023.02.04-06.59.07:800][476]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 15.91 sec, max 15.91 sec, min 15.91 sec)
+[2023.02.04-06.59.07:800][476]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.04-06.59.07:800][476]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 51.61% of total time (compiled   17 times, average 22.12 sec, max 45.28 sec, min 6.18 sec)
+[2023.02.04-06.59.07:800][476]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.02% of total time (compiled   18 times, average 2.43 sec, max 5.49 sec, min 1.27 sec)
+[2023.02.04-06.59.07:800][476]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.01% of total time (compiled   18 times, average 2.03 sec, max 2.89 sec, min 1.32 sec)
+[2023.02.04-06.59.07:800][476]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false - 4.12% of total time (compiled    1 times, average 29.98 sec, max 29.98 sec, min 29.98 sec)
+[2023.02.04-06.59.07:800][476]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false - 3.79% of total time (compiled    1 times, average 27.59 sec, max 27.59 sec, min 27.59 sec)
+[2023.02.04-06.59.07:800][476]LogShaderCompilers: Display: ================================================
+[2023.02.04-06.59.10:501][580]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.CameraActor
+[2023.02.04-06.59.10:502][580]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.CameraActor
+[2023.02.04-06.59.10:504][580]LogActorFactory: Actor Factory spawned Class /Script/Engine.CameraActor as actor: CameraActor /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.CameraActor_0
+[2023.02.04-06.59.10:504][580]LogActorFactory: Actor Factory spawned Class /Script/Engine.CameraActor as actor: CameraActor /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.CameraActor_0
+[2023.02.04-06.59.10:992][619]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.CameraActor
+[2023.02.04-06.59.10:993][619]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.CameraActor
+[2023.02.04-06.59.10:999][619]LogActorFactory: Actor Factory spawned Class /Script/Engine.CameraActor as actor: CameraActor /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.CameraActor_1
+[2023.02.04-06.59.10:999][619]LogActorFactory: Actor Factory spawned Class /Script/Engine.CameraActor as actor: CameraActor /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.CameraActor_1
+[2023.02.04-06.59.11:173][620]LogViewport: Scene viewport resized to 474x267, mode Windowed.
+[2023.02.04-06.59.19:418][220]LogViewport: Scene viewport resized to 474x267, mode Windowed.
+[2023.02.04-06.59.35:566][527]LogEditorViewport: Clicking Background
+[2023.02.04-06.59.36:518][603]LogViewport: Scene viewport resized to 474x267, mode Windowed.
+[2023.02.04-07.00.08:349][929]LogEditorViewport: Clicking Background
+[2023.02.04-07.00.08:426][934]LogEditorViewport: Clicking Background
+[2023.02.04-07.00.10:626][132]LogViewport: Scene viewport resized to 779x421, mode Windowed.
+[2023.02.04-07.00.10:652][132]LogViewport: Scene viewport resized to 779x421, mode Windowed.
+[2023.02.04-07.00.10:677][132]LogViewport: Scene viewport resized to 779x421, mode Windowed.
+[2023.02.04-07.00.10:702][132]LogViewport: Scene viewport resized to 1351x731, mode Windowed.
+[2023.02.04-07.00.10:733][133]LogViewport: Scene viewport resized to 815x440, mode Windowed.
+[2023.02.04-07.00.10:767][134]LogViewport: Scene viewport resized to 784x423, mode Windowed.
+[2023.02.04-07.00.10:800][135]LogViewport: Scene viewport resized to 779x421, mode Windowed.
+[2023.02.04-07.00.11:713][211]LogViewport: Scene viewport resized to 1081x584, mode Windowed.
+[2023.02.04-07.00.11:748][212]LogViewport: Scene viewport resized to 1376x744, mode Windowed.
+[2023.02.04-07.00.11:782][213]LogViewport: Scene viewport resized to 1516x820, mode Windowed.
+[2023.02.04-07.00.11:816][214]LogViewport: Scene viewport resized to 1560x844, mode Windowed.
+[2023.02.04-07.00.11:848][215]LogViewport: Scene viewport resized to 1564x846, mode Windowed.
+[2023.02.04-07.00.35:145][551]LogViewport: Scene viewport resized to 1577x846, mode Windowed.
+[2023.02.04-07.00.35:202][553]LogViewport: Scene viewport resized to 1690x846, mode Windowed.
+[2023.02.04-07.00.35:244][555]LogViewport: Scene viewport resized to 1769x846, mode Windowed.
+[2023.02.04-07.00.35:303][557]LogViewport: Scene viewport resized to 1820x846, mode Windowed.
+[2023.02.04-07.00.35:348][559]LogViewport: Scene viewport resized to 1891x846, mode Windowed.
+[2023.02.04-07.00.52:474][196]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.04-07.00.52:475][196]Can't find target element.
+[2023.02.04-07.00.53:623][303]LogViewport: Scene viewport resized to 474x267, mode Windowed.
+[2023.02.04-07.00.53:809][316]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.04-07.00.57:569][582]LogEditorViewport: Clicking Background
+[2023.02.04-07.01.00:008][824]LogEditorViewport: Clicking Background
+[2023.02.04-07.01.03:445][155]LogViewport: Scene viewport resized to 474x267, mode Windowed.
+[2023.02.04-07.01.13:917][930]LogViewport: Scene viewport resized to 474x267, mode Windowed.
+[2023.02.04-07.01.18:229][270]LogViewport: Scene viewport resized to 474x267, mode Windowed.
+[2023.02.04-07.01.22:628][638]LogViewport: Scene viewport resized to 474x267, mode Windowed.
+[2023.02.04-07.01.35:875][703]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path C:/Users/rfu/Documents/ggj/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.04-07.01.35:875][703]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path C:/Users/rfu/Documents/ggj/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.04-07.01.35:875][703]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path C:/Users/rfu/Documents/ggj/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.04-07.01.35:877][703]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path C:/Users/rfu/Documents/ggj/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.04-07.01.35:877][703]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path C:/Users/rfu/Documents/ggj/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.04-07.01.35:877][703]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path C:/Users/rfu/Documents/ggj/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.04-07.01.39:542][928]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path C:/Users/rfu/Documents/ggj/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.04-07.01.39:542][928]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path C:/Users/rfu/Documents/ggj/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.04-07.01.39:542][928]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path C:/Users/rfu/Documents/ggj/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.04-07.01.39:542][928]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path C:/Users/rfu/Documents/ggj/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.04-07.01.39:542][928]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path C:/Users/rfu/Documents/ggj/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.04-07.01.39:542][928]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path C:/Users/rfu/Documents/ggj/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.04-07.01.39:542][928]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path C:/Users/rfu/Documents/ggj/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.04-07.01.39:542][928]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path C:/Users/rfu/Documents/ggj/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.04-07.01.56:406][145]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path C:/Users/rfu/Documents/ggj/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.04-07.01.56:406][145]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path C:/Users/rfu/Documents/ggj/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.04-07.01.56:406][145]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path C:/Users/rfu/Documents/ggj/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.04-07.01.56:406][145]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path C:/Users/rfu/Documents/ggj/UE_5.1/Engine/Config/Layouts/DefaultLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.04-07.01.56:406][145]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path C:/Users/rfu/Documents/ggj/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.04-07.01.56:406][145]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path C:/Users/rfu/Documents/ggj/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.04-07.01.56:406][145]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path C:/Users/rfu/Documents/ggj/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.04-07.01.56:407][145]LogConfig: Warning: GConfig::Find attempting to access config with non-normalized path C:/Users/rfu/Documents/ggj/UE_5.1/Engine/Config/Layouts/UE4ClassicLayout.ini. Please use FConfigCacheIni::NormalizeConfigIniPath before accessing INI files through ConfigCache.
+[2023.02.04-07.02.00:965][507]LogViewport: Scene viewport resized to 1885x846, mode Windowed.
+[2023.02.04-07.02.01:022][509]LogViewport: Scene viewport resized to 1873x846, mode Windowed.
+[2023.02.04-07.02.01:072][511]LogViewport: Scene viewport resized to 1864x846, mode Windowed.
+[2023.02.04-07.02.01:128][513]LogViewport: Scene viewport resized to 1823x846, mode Windowed.
+[2023.02.04-07.02.01:188][515]LogViewport: Scene viewport resized to 1741x846, mode Windowed.
+[2023.02.04-07.02.01:250][517]LogViewport: Scene viewport resized to 1734x846, mode Windowed.
+[2023.02.04-07.02.01:455][533]LogViewport: Scene viewport resized to 1755x846, mode Windowed.
+[2023.02.04-07.02.01:506][535]LogViewport: Scene viewport resized to 1861x846, mode Windowed.
+[2023.02.04-07.02.01:562][537]LogViewport: Scene viewport resized to 1962x846, mode Windowed.
+[2023.02.04-07.02.06:460][949]LogViewport: Scene viewport resized to 1962x843, mode Windowed.
+[2023.02.04-07.02.06:512][950]LogViewport: Scene viewport resized to 1962x835, mode Windowed.
+[2023.02.04-07.02.06:541][950]LogViewport: Scene viewport resized to 473x266, mode Windowed.
+[2023.02.04-07.02.06:584][951]LogViewport: Scene viewport resized to 1962x823, mode Windowed.
+[2023.02.04-07.02.06:615][951]LogViewport: Scene viewport resized to 468x263, mode Windowed.
+[2023.02.04-07.02.06:658][952]LogViewport: Scene viewport resized to 1962x821, mode Windowed.
+[2023.02.04-07.02.06:687][952]LogViewport: Scene viewport resized to 461x260, mode Windowed.
+[2023.02.04-07.02.06:721][953]LogViewport: Scene viewport resized to 460x259, mode Windowed.
+[2023.02.04-07.02.17:483][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-07.02.17:490][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-07.02.17:496][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-07.02.17:501][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-07.02.17:539][769]LogViewport: Scene viewport resized to 1000x565, mode Windowed.
+[2023.02.04-07.02.18:752][840]LogViewport: Scene viewport resized to 996x571, mode Windowed.
+[2023.02.04-07.02.18:836][842]LogViewport: Scene viewport resized to 800x454, mode Windowed.
+[2023.02.04-07.02.18:937][844]LogViewport: Scene viewport resized to 1502x418, mode Windowed.
+[2023.02.04-07.02.19:021][845]LogViewport: Scene viewport resized to 1925x396, mode Windowed.
+[2023.02.04-07.02.19:066][846]LogViewport: Scene viewport resized to 1958x394, mode Windowed.
+[2023.02.04-07.02.19:320][859]LogViewport: Scene viewport resized to 1734x491, mode Windowed.
+[2023.02.04-07.02.19:386][860]LogViewport: Scene viewport resized to 1148x744, mode Windowed.
+[2023.02.04-07.02.19:432][861]LogViewport: Scene viewport resized to 977x817, mode Windowed.
+[2023.02.04-07.02.19:854][889]LogSlate: Window 'Viewport 2' being destroyed
+[2023.02.04-07.02.19:869][889]LogViewport: Scene viewport resized to 996x821, mode Windowed.
+[2023.02.04-07.02.19:898][889]LogViewport: Scene viewport resized to 996x821, mode Windowed.
+[2023.02.04-07.02.24:596][227]LogViewport: Scene viewport resized to 1008x821, mode Windowed.
+[2023.02.04-07.02.24:626][227]LogViewport: Scene viewport resized to 984x821, mode Windowed.
+[2023.02.04-07.02.24:674][229]LogViewport: Scene viewport resized to 1118x821, mode Windowed.
+[2023.02.04-07.02.24:704][229]LogViewport: Scene viewport resized to 873x821, mode Windowed.
+[2023.02.04-07.02.24:755][231]LogViewport: Scene viewport resized to 1150x821, mode Windowed.
+[2023.02.04-07.02.24:782][231]LogViewport: Scene viewport resized to 842x821, mode Windowed.
+[2023.02.04-07.02.24:834][233]LogViewport: Scene viewport resized to 1151x821, mode Windowed.
+[2023.02.04-07.02.24:863][233]LogViewport: Scene viewport resized to 840x821, mode Windowed.
+[2023.02.04-07.02.26:054][320]LogEditorViewport: Clicking Background
+[2023.02.04-07.03.10:819][844]LogViewport: Scene viewport resized to 460x259, mode Windowed.
+[2023.02.04-07.03.16:652][300]LogViewport: Scene viewport resized to 460x259, mode Windowed.
+[2023.02.04-07.03.47:019][996]LogViewport: Scene viewport resized to 1137x821, mode Windowed.
+[2023.02.04-07.03.47:069][998]LogViewport: Scene viewport resized to 1103x821, mode Windowed.
+[2023.02.04-07.03.47:117][  0]LogViewport: Scene viewport resized to 1051x821, mode Windowed.
+[2023.02.04-07.03.47:167][  2]LogViewport: Scene viewport resized to 936x821, mode Windowed.
+[2023.02.04-07.03.47:217][  4]LogViewport: Scene viewport resized to 910x821, mode Windowed.
+[2023.02.04-07.03.47:265][  6]LogViewport: Scene viewport resized to 892x821, mode Windowed.
+[2023.02.04-07.03.47:316][  8]LogViewport: Scene viewport resized to 864x821, mode Windowed.
+[2023.02.04-07.03.47:366][ 10]LogViewport: Scene viewport resized to 828x821, mode Windowed.
+[2023.02.04-07.03.47:407][ 11]LogViewport: Scene viewport resized to 812x821, mode Windowed.
+[2023.02.04-07.03.47:455][ 13]LogViewport: Scene viewport resized to 800x821, mode Windowed.
+[2023.02.04-07.03.47:503][ 15]LogViewport: Scene viewport resized to 795x821, mode Windowed.
+[2023.02.04-07.03.58:134][751]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.02.04-07.03.58:134][751]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.02.04-07.03.58:135][751]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.StaticMeshActor_0
+[2023.02.04-07.03.58:147][751]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.StaticMeshActor_0
+[2023.02.04-07.03.59:213][780]LogShaderCompilers: Display: ================================================
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display: Total job queries 226, among them cache hits 53 (23.45%)
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display: Tracking 154 distinct input hashes that result in 119 distinct outputs (77.27%)
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display: RAM used: 0.47 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.06%
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display: Shaders Compiled: 154
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display: Jobs assigned 161, completed 154 (95.65%)
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display: Average time worker was idle: 58.31 s
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display: Time job spent in pending queue: average 7.96 s, longest 64.45 s
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display: Job execution time: average 19.91 s, max 102.35 s
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display: Job life time (pending + execution): average 28.23 s, max 103.72
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 122.92 s
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display: Jobs were issued in 123 batches (only local compilation was used), average 1.31 jobs/batch
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display: Average processing rate: 1.25 jobs/sec
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display: Total thread time: 749.61 s
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display: Total thread preprocess time: 14.03 s
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display: Percentage time preprocessing: 1.87%
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display: Effective parallelization: 6.10 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 29.98 sec, max 29.98 sec, min 29.98 sec)
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 27.59 sec, max 27.59 sec, min 27.59 sec)
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 22.12 sec, max 45.28 sec, min 6.18 sec)
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 19.63 sec, max 19.63 sec, min 19.63 sec)
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 15.91 sec, max 15.91 sec, min 15.91 sec)
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 50.16% of total time (compiled   17 times, average 22.12 sec, max 45.28 sec, min 6.18 sec)
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.12% of total time (compiled   22 times, average 2.43 sec, max 5.49 sec, min 1.27 sec)
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.11% of total time (compiled   22 times, average 2.08 sec, max 2.89 sec, min 1.32 sec)
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false - 4.00% of total time (compiled    1 times, average 29.98 sec, max 29.98 sec, min 29.98 sec)
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false - 3.68% of total time (compiled    1 times, average 27.59 sec, max 27.59 sec, min 27.59 sec)
+[2023.02.04-07.03.59:214][780]LogShaderCompilers: Display: ================================================
+[2023.02.04-07.03.59:514][786]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.02.04-07.03.59:515][786]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.02.04-07.03.59:516][786]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.StaticMeshActor_1
+[2023.02.04-07.03.59:517][786]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.StaticMeshActor_1
+[2023.02.04-07.03.59:717][792]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.02.04-07.03.59:717][792]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.02.04-07.03.59:718][792]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.StaticMeshActor_2
+[2023.02.04-07.03.59:718][792]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.StaticMeshActor_2
+[2023.02.04-07.04.00:622][835]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.02.04-07.04.00:622][835]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.02.04-07.04.00:622][835]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.StaticMeshActor_3
+[2023.02.04-07.04.00:623][835]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.StaticMeshActor_3
+[2023.02.04-07.04.01:529][899]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.02.04-07.04.01:530][899]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.02.04-07.04.01:531][899]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.StaticMeshActor_4
+[2023.02.04-07.04.01:532][899]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.StaticMeshActor_4
+[2023.02.04-07.04.07:998][318]Cmd: SELECT NONE
+[2023.02.04-07.04.12:183][636]LogEditorViewport: Clicking Background
+[2023.02.04-07.04.17:519][ 37]LogEditorViewport: Clicking Background
+[2023.02.04-07.04.25:582][527]LogSlate: Window 'coral_INS' being destroyed
+[2023.02.04-07.04.25:588][527]LogSlate: Window 'coral_INS' being destroyed
+[2023.02.04-07.04.25:612][527]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-07.04.25:612][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-07.04.25:627][527]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-07.04.25:628][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-07.04.26:419][569]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/material/coral_MAT.coral_MAT
+[2023.02.04-07.04.26:423][569]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-07.04.26:559][569]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-07.04.26:559][569]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.04.26:559][569]MaterialEditorStats: Shader Count: 0
+[2023.02.04-07.04.26:567][569]LogViewport: Scene viewport resized to 325x397, mode Windowed.
+[2023.02.04-07.04.28:407][624]MaterialEditorStats: Base pass shader: 165 instructions
+[2023.02.04-07.04.28:408][624]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.02.04-07.04.28:408][624]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-07.04.28:408][624]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.04.28:408][624]MaterialEditorStats: Shader Count: 4
+[2023.02.04-07.04.34:018][893]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-07.04.34:018][893]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.04.34:018][893]MaterialEditorStats: Shader Count: 0
+[2023.02.04-07.04.34:075][895]MaterialEditorStats: Base pass shader: 165 instructions
+[2023.02.04-07.04.34:075][895]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.02.04-07.04.34:075][895]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-07.04.34:075][895]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.04.34:075][895]MaterialEditorStats: Shader Count: 4
+[2023.02.04-07.04.35:134][942]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-07.04.35:134][942]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.04.35:134][942]MaterialEditorStats: Shader Count: 0
+[2023.02.04-07.04.35:209][944]MaterialEditorStats: Base pass shader: 165 instructions
+[2023.02.04-07.04.35:209][944]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.02.04-07.04.35:209][944]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-07.04.35:209][944]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.04.35:209][944]MaterialEditorStats: Shader Count: 4
+[2023.02.04-07.04.36:154][989]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-07.04.36:155][989]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.04.36:155][989]MaterialEditorStats: Shader Count: 0
+[2023.02.04-07.04.36:222][991]MaterialEditorStats: Base pass shader: 165 instructions
+[2023.02.04-07.04.36:222][991]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.02.04-07.04.36:223][991]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-07.04.36:223][991]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.04.36:223][991]MaterialEditorStats: Shader Count: 4
+[2023.02.04-07.04.52:267][794]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-07.04.52:268][794]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.04.52:268][794]MaterialEditorStats: Shader Count: 0
+[2023.02.04-07.04.52:320][796]MaterialEditorStats: Base pass shader: 165 instructions
+[2023.02.04-07.04.52:320][796]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.02.04-07.04.52:320][796]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-07.04.52:320][796]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.04.52:320][796]MaterialEditorStats: Shader Count: 4
+[2023.02.04-07.04.54:234][888]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-07.04.54:235][888]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.04.54:235][888]MaterialEditorStats: Shader Count: 0
+[2023.02.04-07.04.54:270][890]MaterialEditorStats: Base pass shader: 165 instructions
+[2023.02.04-07.04.54:270][890]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.02.04-07.04.54:270][890]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-07.04.54:270][890]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.04.54:270][890]MaterialEditorStats: Shader Count: 4
+[2023.02.04-07.04.58:654][106]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-07.04.58:654][106]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.04.58:654][106]MaterialEditorStats: Shader Count: 0
+[2023.02.04-07.04.58:711][108]MaterialEditorStats: Base pass shader: 165 instructions
+[2023.02.04-07.04.58:711][108]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.02.04-07.04.58:711][108]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-07.04.58:711][108]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.04.58:711][108]MaterialEditorStats: Shader Count: 4
+[2023.02.04-07.04.59:531][147]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-07.04.59:532][147]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.04.59:532][147]MaterialEditorStats: Shader Count: 0
+[2023.02.04-07.04.59:586][149]MaterialEditorStats: Base pass shader: 165 instructions
+[2023.02.04-07.04.59:586][149]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.02.04-07.04.59:586][149]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-07.04.59:586][149]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.04.59:586][149]MaterialEditorStats: Shader Count: 4
+[2023.02.04-07.05.03:897][368]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-07.05.03:897][368]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.05.03:897][368]MaterialEditorStats: Shader Count: 0
+[2023.02.04-07.05.03:963][370]MaterialEditorStats: Base pass shader: 165 instructions
+[2023.02.04-07.05.03:963][370]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.02.04-07.05.03:963][370]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-07.05.03:963][370]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.05.03:963][370]MaterialEditorStats: Shader Count: 4
+[2023.02.04-07.05.09:472][642]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-07.05.09:472][642]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.05.09:472][642]MaterialEditorStats: Shader Count: 0
+[2023.02.04-07.05.09:508][644]MaterialEditorStats: Base pass shader: 165 instructions
+[2023.02.04-07.05.09:508][644]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.02.04-07.05.09:508][644]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-07.05.09:508][644]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.05.09:508][644]MaterialEditorStats: Shader Count: 4
+[2023.02.04-07.05.11:557][736]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-07.05.11:557][736]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.05.11:557][736]MaterialEditorStats: Shader Count: 0
+[2023.02.04-07.05.13:366][796]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.02.04-07.05.13:366][796]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-07.05.13:367][796]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.05.13:367][796]MaterialEditorStats: Shader Count: 3
+[2023.02.04-07.05.13:473][800]MaterialEditorStats: Base pass shader: 165 instructions
+[2023.02.04-07.05.13:473][800]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.02.04-07.05.13:473][800]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-07.05.13:473][800]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.05.13:473][800]MaterialEditorStats: Shader Count: 4
+[2023.02.04-07.05.19:815][105]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-07.05.19:815][105]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.05.19:815][105]MaterialEditorStats: Shader Count: 0
+[2023.02.04-07.05.19:853][107]MaterialEditorStats: Base pass shader: 165 instructions
+[2023.02.04-07.05.19:854][107]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.02.04-07.05.19:854][107]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-07.05.19:854][107]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.05.19:854][107]MaterialEditorStats: Shader Count: 4
+[2023.02.04-07.05.24:110][297]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-07.05.24:110][297]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.05.24:110][297]MaterialEditorStats: Shader Count: 0
+[2023.02.04-07.05.24:150][299]MaterialEditorStats: Base pass shader: 165 instructions
+[2023.02.04-07.05.24:150][299]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.02.04-07.05.24:150][299]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-07.05.24:150][299]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.05.24:150][299]MaterialEditorStats: Shader Count: 4
+[2023.02.04-07.05.25:233][346]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-07.05.25:233][346]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.05.25:233][346]MaterialEditorStats: Shader Count: 0
+[2023.02.04-07.05.25:283][348]MaterialEditorStats: Base pass shader: 165 instructions
+[2023.02.04-07.05.25:283][348]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.02.04-07.05.25:283][348]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-07.05.25:283][348]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.05.25:283][348]MaterialEditorStats: Shader Count: 4
+[2023.02.04-07.05.27:651][451]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.04-07.05.27:664][451]MaterialEditorStats: Texture samplers: 0/16
+[2023.02.04-07.05.27:664][451]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.05.27:664][451]MaterialEditorStats: Shader Count: 0
+[2023.02.04-07.05.27:725][453]MaterialEditorStats: Base pass shader: 165 instructions
+[2023.02.04-07.05.27:725][453]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.02.04-07.05.27:725][453]MaterialEditorStats: Texture samplers: 2/16
+[2023.02.04-07.05.27:725][453]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.05.27:725][453]MaterialEditorStats: Shader Count: 4
+[2023.02.04-07.05.29:634][539]LogMaterialEditor: Applying material coral_MAT
+[2023.02.04-07.05.30:348][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.02.04-07.05.31:518][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.02.04-07.05.34:530][703]LogEditorViewport: Clicking Background
+[2023.02.04-07.05.38:470][ 35]LogEditorViewport: Clicking Background
+[2023.02.04-07.05.51:110][156]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2023.02.04-07.05.51:110][156]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2023.02.04-07.05.51:110][156]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.PostProcessVolume_0
+[2023.02.04-07.05.51:116][156]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.PostProcessVolume_0
+[2023.02.04-07.05.51:746][201]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2023.02.04-07.05.51:746][201]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2023.02.04-07.05.51:746][201]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.PostProcessVolume_1
+[2023.02.04-07.05.51:748][201]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.PostProcessVolume_1
+[2023.02.04-07.05.52:372][248]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2023.02.04-07.05.52:372][248]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2023.02.04-07.05.52:373][248]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.PostProcessVolume_2
+[2023.02.04-07.05.52:373][248]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.PostProcessVolume_2
+[2023.02.04-07.05.52:640][269]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2023.02.04-07.05.52:640][269]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2023.02.04-07.05.52:642][269]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.PostProcessVolume_3
+[2023.02.04-07.05.52:643][269]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.PostProcessVolume_3
+[2023.02.04-07.06.18:063][257]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.04-07.06.20:819][451]LogEditorViewport: Clicking Background
+[2023.02.04-07.06.26:713][913]LogEditorViewport: Clicking Background
+[2023.02.04-07.06.36:283][623]LogViewport: Scene viewport resized to 460x259, mode Windowed.
+[2023.02.04-07.06.38:171][754]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.04-07.06.42:354][ 36]LogEditorViewport: Clicking Background
+[2023.02.04-07.06.44:608][205]LogEditorViewport: Clicking Background
+[2023.02.04-07.06.46:561][378]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2023.02.04-07.06.46:561][378]LogConfig: Set CVar [[r.SkeletalMeshLODBias:1]]
+[2023.02.04-07.06.46:561][378]LogConfig: Set CVar [[r.ViewDistanceScale:0.6]]
+[2023.02.04-07.06.46:561][378]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2023.02.04-07.06.46:561][378]LogConfig: Set CVar [[r.FXAA.Quality:1]]
+[2023.02.04-07.06.46:562][378]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2023.02.04-07.06.46:562][378]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:1]]
+[2023.02.04-07.06.46:562][378]LogConfig: Set CVar [[r.TSR.ShadingRejection.SpatialFilter:1]]
+[2023.02.04-07.06.46:562][378]LogConfig: CVar [[r.TSR.Velocity.HoleFill:1]] deferred - dummy variable created
+[2023.02.04-07.06.46:562][378]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2023.02.04-07.06.46:563][378]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2023.02.04-07.06.46:563][378]LogConfig: Set CVar [[r.LightFunctionQuality:1]]
+[2023.02.04-07.06.46:563][378]LogConfig: Set CVar [[r.ShadowQuality:3]]
+[2023.02.04-07.06.46:563][378]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2023.02.04-07.06.46:563][378]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2023.02.04-07.06.46:563][378]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2023.02.04-07.06.46:563][378]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.7]]
+[2023.02.04-07.06.46:563][378]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2023.02.04-07.06.46:563][378]LogConfig: Set CVar [[r.DistanceFieldAO:1]]
+[2023.02.04-07.06.46:563][378]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2023.02.04-07.06.46:563][378]LogConfig: Set CVar [[r.CapsuleShadows:1]]
+[2023.02.04-07.06.46:564][378]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:4]]
+[2023.02.04-07.06.46:564][378]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:4]]
+[2023.02.04-07.06.46:564][378]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2023.02.04-07.06.46:564][378]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2023.02.04-07.06.46:564][378]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2023.02.04-07.06.46:564][378]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2023.02.04-07.06.46:565][378]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2023.02.04-07.06.46:565][378]LogConfig: Set CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.04-07.06.46:565][378]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2023.02.04-07.06.46:565][378]LogConfig: Set CVar [[r.DepthOfFieldQuality:1]]
+[2023.02.04-07.06.46:565][378]LogConfig: Set CVar [[r.RenderTargetPoolMin:350]]
+[2023.02.04-07.06.46:565][378]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:35.355]]
+[2023.02.04-07.06.46:565][378]LogConfig: Set CVar [[r.FastBlurThreshold:2]]
+[2023.02.04-07.06.46:565][378]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2023.02.04-07.06.46:565][378]LogConfig: Set CVar [[r.Filter.SizeScale:0.7]]
+[2023.02.04-07.06.46:565][378]LogConfig: Set CVar [[r.Tonemapper.Quality:2]]
+[2023.02.04-07.06.46:565][378]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2023.02.04-07.06.46:566][378]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2023.02.04-07.06.46:566][378]LogConfig: Set CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2023.02.04-07.06.46:566][378]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2023.02.04-07.06.46:566][378]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2023.02.04-07.06.46:566][378]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2023.02.04-07.06.46:566][378]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2023.02.04-07.06.46:566][378]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2023.02.04-07.06.46:566][378]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2023.02.04-07.06.46:566][378]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2023.02.04-07.06.46:566][378]LogConfig: Set CVar [[r.Streaming.MipBias:1]]
+[2023.02.04-07.06.46:566][378]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.04-07.06.46:566][378]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.04-07.06.46:566][378]LogConfig: Set CVar [[r.Streaming.Boost:1]]
+[2023.02.04-07.06.46:566][378]LogConfig: Set CVar [[r.MaxAnisotropy:2]]
+[2023.02.04-07.06.46:566][378]LogConfig: Set CVar [[r.Streaming.PoolSize:600]]
+[2023.02.04-07.06.46:566][378]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2023.02.04-07.06.46:567][378]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2023.02.04-07.06.46:567][378]LogConfig: Set CVar [[r.DetailMode:1]]
+[2023.02.04-07.06.46:567][378]LogConfig: Set CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2023.02.04-07.06.46:567][378]LogConfig: Set CVar [[r.SSS.Scale:0.75]]
+[2023.02.04-07.06.46:567][378]LogConfig: Set CVar [[r.SSGI.Quality:1]]
+[2023.02.04-07.06.46:567][378]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.25]]
+[2023.02.04-07.06.46:567][378]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.04-07.06.46:567][378]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.04-07.06.46:567][378]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2023.02.04-07.06.46:567][378]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.04-07.06.46:567][378]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2023.02.04-07.06.46:567][378]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.04-07.06.46:567][378]LogConfig: Set CVar [[fx.Niagara.QualityLevel:1]]
+[2023.02.04-07.06.46:567][378]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2023.02.04-07.06.46:567][378]LogConfig: Set CVar [[foliage.DensityScale:0.4]]
+[2023.02.04-07.06.46:568][378]LogConfig: Set CVar [[grass.DensityScale:0.4]]
+[2023.02.04-07.06.46:568][378]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2023.02.04-07.06.46:568][378]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2023.02.04-07.06.46:571][378]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.04-07.06.52:422][378]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.04-07.06.52:888][378]LogContentStreaming: Texture pool size now 600 MB
+[2023.02.04-07.06.53:669][396]LogEditorViewport: Clicking Background
+[2023.02.04-07.06.57:138][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-07.06.57:152][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-07.06.57:159][504]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'InvertedForeground'.'
+[2023.02.04-07.06.57:178][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-07.06.57:199][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-07.06.57:282][505]LogViewport: Scene viewport resized to 840x711, mode Windowed.
+[2023.02.04-07.06.59:726][587]LogShaderCompilers: Display: ================================================
+[2023.02.04-07.06.59:726][587]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.04-07.06.59:726][587]LogShaderCompilers: Display: Total job queries 2679, among them cache hits 214 (7.99%)
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display: Tracking 223 distinct input hashes that result in 162 distinct outputs (72.65%)
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display: RAM used: 0.64 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.08%
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display: Shaders Compiled: 223
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display: Jobs assigned 231, completed 223 (96.54%)
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display: Average time worker was idle: 43.34 s
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display: Time job spent in pending queue: average 6.74 s, longest 64.45 s
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display: Job execution time: average 14.32 s, max 102.35 s
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display: Job life time (pending + execution): average 20.90 s, max 103.72
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 144.43 s
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display: Jobs were issued in 193 batches (only local compilation was used), average 1.20 jobs/batch
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display: Average processing rate: 1.54 jobs/sec
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display: Total thread time: 861.67 s
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display: Total thread preprocess time: 18.94 s
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display: Percentage time preprocessing: 2.20%
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display: Effective parallelization: 5.97 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 29.98 sec, max 29.98 sec, min 29.98 sec)
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 27.59 sec, max 27.59 sec, min 27.59 sec)
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 22.12 sec, max 45.28 sec, min 6.18 sec)
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 19.63 sec, max 19.63 sec, min 19.63 sec)
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 15.91 sec, max 15.91 sec, min 15.91 sec)
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.04-07.06.59:727][587]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 43.63% of total time (compiled   17 times, average 22.12 sec, max 45.28 sec, min 6.18 sec)
+[2023.02.04-07.06.59:728][587]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.52% of total time (compiled   30 times, average 2.16 sec, max 5.49 sec, min 0.90 sec)
+[2023.02.04-07.06.59:728][587]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.35% of total time (compiled   29 times, average 1.89 sec, max 2.89 sec, min 0.83 sec)
+[2023.02.04-07.06.59:728][587]LogShaderCompilers: Display:                                                 FLumenCardVS - 3.81% of total time (compiled   21 times, average 1.56 sec, max 3.21 sec, min 0.60 sec)
+[2023.02.04-07.06.59:728][587]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false - 3.48% of total time (compiled    1 times, average 29.98 sec, max 29.98 sec, min 29.98 sec)
+[2023.02.04-07.06.59:728][587]LogShaderCompilers: Display: ================================================
+[2023.02.04-07.07.01:212][637]LogViewport: Scene viewport resized to 839x472, mode Windowed.
+[2023.02.04-07.10.00:268][125]LogShaderCompilers: Display: ================================================
+[2023.02.04-07.10.00:268][125]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.04-07.10.00:268][125]LogShaderCompilers: Display: Total job queries 2679, among them cache hits 214 (7.99%)
+[2023.02.04-07.10.00:268][125]LogShaderCompilers: Display: Tracking 839 distinct input hashes that result in 468 distinct outputs (55.78%)
+[2023.02.04-07.10.00:268][125]LogShaderCompilers: Display: RAM used: 2.07 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.25%
+[2023.02.04-07.10.00:268][125]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display: Shaders Compiled: 839
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display: Jobs assigned 847, completed 839 (99.06%)
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display: Average time worker was idle: 10.01 s
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display: Time job spent in pending queue: average 76.02 s, longest 191.38 s
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display: Job execution time: average 5.51 s, max 102.35 s
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display: Job life time (pending + execution): average 80.46 s, max 191.38
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 325.00 s
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display: Jobs were issued in 809 batches (only local compilation was used), average 1.05 jobs/batch
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display: Average processing rate: 2.58 jobs/sec
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display: Total thread time: 2182.38 s
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display: Total thread preprocess time: 75.13 s
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display: Percentage time preprocessing: 3.44%
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display: Effective parallelization: 6.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 29.98 sec, max 29.98 sec, min 29.98 sec)
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 27.59 sec, max 27.59 sec, min 27.59 sec)
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 22.12 sec, max 45.28 sec, min 6.18 sec)
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 19.63 sec, max 19.63 sec, min 19.63 sec)
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 15.91 sec, max 15.91 sec, min 15.91 sec)
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 17.23% of total time (compiled   17 times, average 22.12 sec, max 45.28 sec, min 6.18 sec)
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.26% of total time (compiled   78 times, average 2.31 sec, max 8.43 sec, min 0.90 sec)
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.04% of total time (compiled   77 times, average 2.28 sec, max 5.93 sec, min 0.83 sec)
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.04% of total time (compiled   56 times, average 3.13 sec, max 26.20 sec, min 0.53 sec)
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.05% of total time (compiled   69 times, average 1.60 sec, max 3.79 sec, min 0.60 sec)
+[2023.02.04-07.10.00:269][125]LogShaderCompilers: Display: ================================================
+[2023.02.04-07.13.01:238][613]LogShaderCompilers: Display: ================================================
+[2023.02.04-07.13.01:238][613]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.04-07.13.01:238][613]LogShaderCompilers: Display: Total job queries 2679, among them cache hits 214 (7.99%)
+[2023.02.04-07.13.01:238][613]LogShaderCompilers: Display: Tracking 1377 distinct input hashes that result in 740 distinct outputs (53.74%)
+[2023.02.04-07.13.01:238][613]LogShaderCompilers: Display: RAM used: 3.48 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.42%
+[2023.02.04-07.13.01:238][613]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.04-07.13.01:238][613]LogShaderCompilers: Display: Shaders Compiled: 1377
+[2023.02.04-07.13.01:238][613]LogShaderCompilers: Display: Jobs assigned 1385, completed 1377 (99.42%)
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display: Average time worker was idle: 5.99 s
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display: Time job spent in pending queue: average 158.47 s, longest 370.95 s
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display: Job execution time: average 4.42 s, max 102.35 s
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display: Job life time (pending + execution): average 161.66 s, max 370.95
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 505.94 s
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display: Jobs were issued in 1347 batches (only local compilation was used), average 1.03 jobs/batch
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display: Average processing rate: 2.72 jobs/sec
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display: Total thread time: 3542.81 s
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display: Total thread preprocess time: 128.68 s
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display: Percentage time preprocessing: 3.63%
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display: Effective parallelization: 7.00 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 29.98 sec, max 29.98 sec, min 29.98 sec)
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 27.59 sec, max 27.59 sec, min 27.59 sec)
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 22.12 sec, max 45.28 sec, min 6.18 sec)
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 19.63 sec, max 19.63 sec, min 19.63 sec)
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 15.91 sec, max 15.91 sec, min 15.91 sec)
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 10.61% of total time (compiled   17 times, average 22.12 sec, max 45.28 sec, min 6.18 sec)
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.21% of total time (compiled  125 times, average 2.61 sec, max 8.25 sec, min 0.83 sec)
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.69% of total time (compiled  104 times, average 2.96 sec, max 26.20 sec, min 0.53 sec)
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.36% of total time (compiled  126 times, average 2.35 sec, max 8.43 sec, min 0.90 sec)
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.64% of total time (compiled  118 times, average 1.69 sec, max 4.91 sec, min 0.60 sec)
+[2023.02.04-07.13.01:239][613]LogShaderCompilers: Display: ================================================
+[2023.02.04-07.13.16:596][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-07.13.18:700][128]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.02.04-07.16.00:395][128]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003254s (161.701073s overbudget)
+[2023.02.04-07.16.00:458][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/material/coral_MAT" FILE="../../../../LSR/LSR/Content/material/coral_MAT.uasset" SILENT=true
+[2023.02.04-07.16.00:462][128]LogSavePackage: Moving output files for package: /Game/material/coral_MAT
+[2023.02.04-07.16.00:463][128]LogSavePackage: Moving '../../../../LSR/LSR/Saved/coral_MAT97F8306E4414694AE003609785465469.tmp' to '../../../../LSR/LSR/Content/material/coral_MAT.uasset'
+[2023.02.04-07.16.00:471][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 2:43 min (total: 2:51 min)
+[2023.02.04-07.16.00:486][128]AssetCheck: New page: Asset Save: coral_MAT
+[2023.02.04-07.16.00:487][128]LogContentValidation: Display: Validating /Script/Engine.Material /Game/material/coral_MAT.coral_MAT
+[2023.02.04-07.16.00:490][128]MaterialEditorStats: Base pass shader: 165 instructions
+[2023.02.04-07.16.00:490][128]MaterialEditorStats: Base pass vertex shader: 250 instructions
+[2023.02.04-07.16.00:490][128]MaterialEditorStats: MaxSampler: 214 instructions
+[2023.02.04-07.16.00:490][128]MaterialEditorStats: Texture samplers: 3/16
+[2023.02.04-07.16.00:490][128]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.02.04-07.16.00:490][128]MaterialEditorStats: Shader Count: 16
+[2023.02.04-07.16.01:280][137]LogShaderCompilers: Display: ================================================
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display: Total job queries 2679, among them cache hits 214 (7.99%)
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display: Tracking 2183 distinct input hashes that result in 1170 distinct outputs (53.60%)
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display: RAM used: 6.03 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.74%
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display: Shaders Compiled: 2183
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display: Jobs assigned 2191, completed 2183 (99.63%)
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display: Average time worker was idle: 3.74 s
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display: Time job spent in pending queue: average 266.47 s, longest 548.98 s
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display: Job execution time: average 3.45 s, max 102.35 s
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display: Job life time (pending + execution): average 268.89 s, max 549.01
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 685.96 s
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display: Jobs were issued in 2153 batches (only local compilation was used), average 1.02 jobs/batch
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display: Average processing rate: 3.18 jobs/sec
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display: Total thread time: 4887.05 s
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display: Total thread preprocess time: 190.79 s
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display: Percentage time preprocessing: 3.90%
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display: Effective parallelization: 7.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 29.98 sec, max 29.98 sec, min 29.98 sec)
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 27.59 sec, max 27.59 sec, min 27.59 sec)
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 22.12 sec, max 45.28 sec, min 6.18 sec)
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 19.63 sec, max 19.63 sec, min 19.63 sec)
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 15.91 sec, max 15.91 sec, min 15.91 sec)
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.60% of total time (compiled  150 times, average 2.80 sec, max 26.20 sec, min 0.53 sec)
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.95% of total time (compiled  162 times, average 2.40 sec, max 8.25 sec, min 0.83 sec)
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 7.69% of total time (compiled   17 times, average 22.12 sec, max 45.28 sec, min 6.18 sec)
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.22% of total time (compiled  162 times, average 2.18 sec, max 8.43 sec, min 0.90 sec)
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.02% of total time (compiled  158 times, average 1.55 sec, max 4.91 sec, min 0.60 sec)
+[2023.02.04-07.16.01:281][137]LogShaderCompilers: Display: ================================================
+[2023.02.04-07.16.02:932][186]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-07.16.03:011][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/material/vfx_LVL" FILE="../../../../LSR/LSR/Content/material/vfx_LVL.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.04-07.16.03:038][186]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.02.04-07.16.03:063][186]LogSavePackage: Moving output files for package: /Game/material/vfx_LVL
+[2023.02.04-07.16.03:064][186]LogSavePackage: Moving '../../../../LSR/LSR/Saved/vfx_LVL86EB2B8842275A7B4A218E8C32ACA68B.tmp' to '../../../../LSR/LSR/Content/material/vfx_LVL.umap'
+[2023.02.04-07.16.03:083][186]LogFileHelpers: Saving map 'vfx_LVL' took 0.072
+[2023.02.04-07.16.03:107][186]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 2:51 min)
+[2023.02.04-07.16.03:122][186]AssetCheck: New page: Asset Save: vfx_LVL
+[2023.02.04-07.16.03:122][186]LogContentValidation: Display: Validating /Script/Engine.World /Game/material/vfx_LVL.vfx_LVL
+[2023.02.04-07.16.25:760][919]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.02.04-07.16.25:761][919]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.02.04-07.17.41:600][770]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn_Simple) ...
+[2023.02.04-07.31.15:222][415]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-07.31.15:223][415]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-07.31.15:223][415]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-07.31.34:985][415]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.02.04-07.31.34:998][415]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.02.04-07.31.35:004][415]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.02.04-07.31.35:033][417]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.02.04-07.31.42:933][153]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Spline
+[2023.02.04-07.31.42:963][153]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.02.04-07.31.44:119][255]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/vfx/BP_Spline.BP_Spline
+[2023.02.04-07.31.44:120][255]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-07.31.45:799][255]LogStaticMesh: Display: Building static mesh PhAT_FloorBox...
+[2023.02.04-07.31.45:802][255]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2023.02.04-07.31.45:931][255]LogViewport: Scene viewport resized to 988x773, mode Windowed.
+[2023.02.04-07.32.49:033][956]LogViewport: Scene viewport resized to 1525x1277, mode Windowed.
+[2023.02.04-07.33.01:384][394]BlueprintLog: New page: Compile BP_Spline
+[2023.02.04-07.33.01:466][394]LogUObjectHash: Compacting FUObjectHashTables data took   9.58ms
+[2023.02.04-07.33.41:449][432]BlueprintLog: New page: Compile BP_Spline
+[2023.02.04-07.33.41:576][432]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2023.02.04-07.34.08:231][344]LogSlate: Took 0.001799 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.02.04-07.34.28:344][954]LogEditorViewport: Clicking Background
+[2023.02.04-07.35.33:539][797]BlueprintLog: New page: Compile BP_Spline
+[2023.02.04-07.35.33:606][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.02.04-07.36.03:178][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.02.04-07.36.03:181][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/material/vfx_LVL" FILE="../../../../LSR/LSR/Saved/Autosaves/Game/material/vfx_LVL_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.02.04-07.36.03:184][354]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/material/vfx_LVL_Auto1
+[2023.02.04-07.36.03:185][354]LogSavePackage: Moving '../../../../LSR/LSR/Saved/vfx_LVL_Auto11CF9A77C456FD46D69564E99CFC5F1D2.tmp' to '../../../../LSR/LSR/Saved/Autosaves/Game/material/vfx_LVL_Auto1.umap'
+[2023.02.04-07.36.03:189][354]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/material/vfx_LVL' took 0.047
+[2023.02.04-07.36.03:189][354]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2023.02.04-07.36.21:631][474]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-07.36.21:680][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/material/vfx_LVL" FILE="../../../../LSR/LSR/Content/material/vfx_LVL.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.04-07.36.21:714][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.02.04-07.36.21:719][474]LogSavePackage: Moving output files for package: /Game/material/vfx_LVL
+[2023.02.04-07.36.21:720][474]LogSavePackage: Moving '../../../../LSR/LSR/Saved/vfx_LVLA6496FDB4D1D36B4A7ADFBB2CB5C5EF7.tmp' to '../../../../LSR/LSR/Content/material/vfx_LVL.umap'
+[2023.02.04-07.36.21:725][474]LogFileHelpers: Saving map 'vfx_LVL' took 0.046
+[2023.02.04-07.36.21:730][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 2:51 min)
+[2023.02.04-07.36.21:737][474]AssetCheck: New page: Asset Save: vfx_LVL
+[2023.02.04-07.36.21:738][474]LogContentValidation: Display: Validating /Script/Engine.World /Game/material/vfx_LVL.vfx_LVL
+[2023.02.04-07.36.23:467][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-07.36.23:515][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/vfx/BP_Spline" FILE="../../../../LSR/LSR/Content/vfx/BP_Spline.uasset" SILENT=true
+[2023.02.04-07.36.23:520][604]LogSavePackage: Moving output files for package: /Game/vfx/BP_Spline
+[2023.02.04-07.36.23:521][604]LogSavePackage: Moving '../../../../LSR/LSR/Saved/BP_Spline0C3190154E7D556DCA5DF483B19DCA97.tmp' to '../../../../LSR/LSR/Content/vfx/BP_Spline.uasset'
+[2023.02.04-07.36.23:526][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 2:51 min)
+[2023.02.04-07.36.23:532][604]AssetCheck: New page: Asset Save: BP_Spline
+[2023.02.04-07.36.23:532][604]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/vfx/BP_Spline.BP_Spline
+[2023.02.04-07.39.13:387][601]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'PropertyEditor.AddColumnMessage.ColorAndOpacity'.'
+[2023.02.04-07.39.18:856][884]LogSlate: Window 'StaticMeshActor_4 - Property Editor' being destroyed
+[2023.02.04-07.39.18:864][884]LogSlate: Window 'StaticMeshActor_4 - Property Editor' being destroyed
+[2023.02.04-07.39.18:888][884]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-07.39.18:888][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-07.39.18:915][884]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-07.39.18:915][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-07.39.28:576][616]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-07.39.28:576][616]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-07.39.28:576][616]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-07.39.38:318][616]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2023.02.04-07.39.38:331][616]LogActorComponent: UnregisterComponent: (/Game/vfx/coral_Blueprint.Default__coral_Blueprint_C:StaticMeshComponent0) Not registered. Aborting.
+[2023.02.04-07.39.38:378][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.02.04-07.39.38:402][616]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/vfx/coral_Blueprint.coral_Blueprint
+[2023.02.04-07.39.38:402][616]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-07.39.39:030][616]LogViewport: Scene viewport resized to 1525x1275, mode Windowed.
+[2023.02.04-07.39.43:132][777]LogSlate: Window 'coral_Blueprint' being destroyed
+[2023.02.04-07.39.43:150][777]LogSlate: Window 'coral_Blueprint' being destroyed
+[2023.02.04-07.39.43:155][777]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-07.39.43:155][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-07.39.51:767][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.02.04-07.39.53:112][383]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.04-07.39.53:161][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.02.04-07.39.53:205][383]LogUObjectHash: Compacting FUObjectHashTables data took   6.46ms
+[2023.02.04-07.39.53:243][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.02.04-07.39.54:232][451]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/vfx/coral_Blueprint.coral_Blueprint
+[2023.02.04-07.39.54:233][451]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-07.39.57:147][557]BlueprintLog: New page: Compile coral_Blueprint
+[2023.02.04-07.39.57:242][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.02.04-07.39.59:589][660]LogSlate: Window 'coral_Blueprint' being destroyed
+[2023.02.04-07.39.59:605][660]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-07.39.59:605][660]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-07.39.59:644][660]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/vfx/coral_Blueprint.coral_Blueprint
+[2023.02.04-07.39.59:644][660]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-07.40.59:202][423]LogViewport: Scene viewport resized to 1525x1275, mode Windowed.
+[2023.02.04-07.41.14:056][858]LogSlate: Window 'coral_Blueprint' being destroyed
+[2023.02.04-07.41.14:070][858]LogSlate: Window 'coral_Blueprint' being destroyed
+[2023.02.04-07.41.14:075][858]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-07.41.14:076][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-07.41.16:853][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.02.04-07.41.18:128][ 53]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.04-07.41.18:223][ 53]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/vfx/coral_Blueprint.coral_Blueprint
+	Asset Type: Blueprint
+[2023.02.04-07.41.18:581][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.02.04-07.41.18:638][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.02.04-07.41.18:668][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.02.04-07.41.18:696][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.02.04-07.41.22:241][393]LogEditorViewport: Clicking Background
+[2023.02.04-07.41.41:288][958]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.02.04-07.41.41:294][958]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.02.04-07.41.41:298][958]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.02.04-07.41.41:323][960]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.02.04-07.41.49:691][781]LogContentBrowser: Attempting asset rename: NewBlueprint -> coral_mesh_bp
+[2023.02.04-07.41.49:702][781]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.02.04-07.41.50:892][894]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/vfx/coral_mesh_bp.coral_mesh_bp
+[2023.02.04-07.41.50:893][894]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-07.41.51:526][894]LogViewport: Scene viewport resized to 1525x1277, mode Windowed.
+[2023.02.04-07.42.18:565][211]LogSlate: Window 'coral_mesh_bp' being destroyed
+[2023.02.04-07.42.18:574][211]LogSlate: Window 'coral_mesh_bp' being destroyed
+[2023.02.04-07.42.18:582][211]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-07.42.18:582][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-07.42.21:511][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.02.04-07.42.23:212][461]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.04-07.42.23:262][461]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2023.02.04-07.42.23:304][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.02.04-07.42.23:349][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.02.04-07.42.28:109][617]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-07.42.28:109][617]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-07.42.28:109][617]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-07.42.42:177][617]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.02.04-07.42.42:183][617]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.02.04-07.42.42:188][617]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.02.04-07.42.42:211][619]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.02.04-07.42.45:034][873]LogContentBrowser: Attempting asset rename: NewBlueprint -> coral
+[2023.02.04-07.42.45:045][873]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.02.04-07.42.46:324][989]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/vfx/coral.coral
+[2023.02.04-07.42.46:325][989]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-07.42.47:013][989]LogViewport: Scene viewport resized to 1525x1277, mode Windowed.
+[2023.02.04-07.43.12:415][163]BlueprintLog: New page: Compile coral
+[2023.02.04-07.43.12:477][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.02.04-07.43.14:286][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-07.43.14:341][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/vfx/coral" FILE="../../../../LSR/LSR/Content/vfx/coral.uasset" SILENT=true
+[2023.02.04-07.43.14:345][237]LogSavePackage: Moving output files for package: /Game/vfx/coral
+[2023.02.04-07.43.14:345][237]LogSavePackage: Moving '../../../../LSR/LSR/Saved/coralC15F7C4945DC3FF0B0D05592BAEF3F19.tmp' to '../../../../LSR/LSR/Content/vfx/coral.uasset'
+[2023.02.04-07.43.14:351][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 2:51 min)
+[2023.02.04-07.43.14:357][237]AssetCheck: New page: Asset Save: coral
+[2023.02.04-07.43.14:357][237]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/vfx/coral.coral
+[2023.02.04-07.43.15:788][299]LogSlate: Window 'coral' being destroyed
+[2023.02.04-07.43.15:795][299]LogSlate: Window 'coral' being destroyed
+[2023.02.04-07.43.15:806][299]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-07.43.15:806][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-07.43.18:256][473]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-07.43.18:258][473]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-07.43.18:258][473]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-07.43.19:573][473]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.02.04-07.43.19:584][473]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.02.04-07.43.19:591][473]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.02.04-07.43.19:604][474]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.02.04-07.43.34:701][947]LogContentBrowser: Attempting asset rename: NewBlueprint -> coral_BP
+[2023.02.04-07.43.34:709][947]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.02.04-07.43.36:391][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-07.43.36:438][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/vfx/coral_BP" FILE="../../../../LSR/LSR/Content/vfx/coral_BP.uasset" SILENT=true
+[2023.02.04-07.43.36:441][ 90]LogSavePackage: Moving output files for package: /Game/vfx/coral_BP
+[2023.02.04-07.43.36:441][ 90]LogSavePackage: Moving '../../../../LSR/LSR/Saved/coral_BP6987D3694B98D428565163836B998DE7.tmp' to '../../../../LSR/LSR/Content/vfx/coral_BP.uasset'
+[2023.02.04-07.43.36:450][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 2:51 min)
+[2023.02.04-07.43.36:456][ 90]AssetCheck: New page: Asset Save: coral_BP
+[2023.02.04-07.43.36:456][ 90]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/vfx/coral_BP.coral_BP
+[2023.02.04-07.43.36:998][131]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/vfx/coral_BP.coral_BP
+[2023.02.04-07.43.37:000][131]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-07.43.37:705][131]LogViewport: Scene viewport resized to 1525x1277, mode Windowed.
+[2023.02.04-07.45.34:609][232]BlueprintLog: New page: Compile coral_BP
+[2023.02.04-07.45.34:706][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.02.04-07.45.35:274][248]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-07.45.35:341][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/vfx/coral_BP" FILE="../../../../LSR/LSR/Content/vfx/coral_BP.uasset" SILENT=true
+[2023.02.04-07.45.35:349][248]LogSavePackage: Moving output files for package: /Game/vfx/coral_BP
+[2023.02.04-07.45.35:350][248]LogSavePackage: Moving '../../../../LSR/LSR/Saved/coral_BP2C113F4646312AB2340AE09580C3078D.tmp' to '../../../../LSR/LSR/Content/vfx/coral_BP.uasset'
+[2023.02.04-07.45.35:355][248]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 2:51 min)
+[2023.02.04-07.45.35:363][248]AssetCheck: New page: Asset Save: coral_BP
+[2023.02.04-07.45.35:363][248]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/vfx/coral_BP.coral_BP
+[2023.02.04-07.46.14:106][320]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.02.04-07.46.26:805][995]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.02.04-07.46.26:818][995]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.02.04-07.46.31:245][301]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-07.46.31:246][301]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-07.46.31:246][301]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.02.04-07.46.42:573][301]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.02.04-07.46.42:582][301]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.02.04-07.46.42:587][301]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.02.04-07.46.42:604][302]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.02.04-07.46.48:644][861]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1662)].
+[2023.02.04-07.46.48:644][861]LogContentBrowser: Attempting asset rename: NewBlueprint -> coral_m
+[2023.02.04-07.46.48:655][861]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.02.04-07.46.48:703][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.02.04-07.46.48:706][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/material/vfx_LVL" FILE="../../../../LSR/LSR/Saved/Autosaves/Game/material/vfx_LVL_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.02.04-07.46.48:708][861]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/material/vfx_LVL_Auto2
+[2023.02.04-07.46.48:708][861]LogSavePackage: Moving '../../../../LSR/LSR/Saved/vfx_LVL_Auto24CA2ECA14F512A19AE1F93AF02621C11.tmp' to '../../../../LSR/LSR/Saved/Autosaves/Game/material/vfx_LVL_Auto2.umap'
+[2023.02.04-07.46.48:713][861]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/material/vfx_LVL' took 0.050
+[2023.02.04-07.46.48:713][861]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2023.02.04-07.46.48:713][861]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/vfx/coral_BP] ([2] browsable assets)...
+[2023.02.04-07.46.48:713][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/vfx/coral_BP]
+[2023.02.04-07.46.48:713][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/vfx/coral_BP" FILE="../../../../LSR/LSR/Saved/Autosaves/Game/vfx/coral_BP_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.02.04-07.46.48:717][861]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/vfx/coral_BP_Auto2
+[2023.02.04-07.46.48:717][861]LogSavePackage: Moving '../../../../LSR/LSR/Saved/coral_BP_Auto2B28271A14848B356CF13849120A0416D.tmp' to '../../../../LSR/LSR/Saved/Autosaves/Game/vfx/coral_BP_Auto2.uasset'
+[2023.02.04-07.46.48:718][861]LogFileHelpers: Auto-saving content packages took 0.005
+[2023.02.04-07.46.49:656][949]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/vfx/coral_m.coral_m
+[2023.02.04-07.46.49:658][949]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-07.47.06:245][852]BlueprintLog: New page: Compile coral_BP
+[2023.02.04-07.47.06:313][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.02.04-07.47.33:175][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.02.04-07.47.35:580][575]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.04-07.47.35:652][575]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-07.47.35:652][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-07.47.35:720][575]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/vfx/coral_m.coral_m
+	Asset Type: Blueprint
+[2023.02.04-07.47.36:070][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.02.04-07.47.36:108][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.02.04-07.47.36:144][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.02.04-07.50.19:587][859]LogDerivedDataCache: C:/Users/rfu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.047 and deleted 0 files with total size 0 MiB. Scanned 7066 files in 6748 folders with total size 59 MiB.
+[2023.02.04-07.51.11:427][ 67]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'AActor::AddComponent' [Element not found.]
+[2023.02.04-07.52.23:345][ 16]BlueprintLog: New page: Compile coral_BP
+[2023.02.04-07.52.23:348][ 16]LogBlueprint: Warning: [AssetLog] C:\Users\rfu\Documents\ggj\LSR\LSR\Content\vfx\coral_BP.uasset: [Compiler] 'Static Mesh' does not inherit from 'Static Mesh Component' ( Cast To StaticMesh  would always fail).
+[2023.02.04-07.52.23:354][ 16]LogScript: Warning: Accessed None trying to read property Target
+	coral_BP_C /Engine/Transient.World_17:PersistentLevel.coral_BP_C_0
+	Function /Game/vfx/coral_BP.coral_BP_C:UserConstructionScript:007A
+[2023.02.04-07.52.23:407][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.02.04-07.52.23:409][ 16]LogScript: Warning: Accessed None trying to read property Target
+	coral_BP_C /Engine/Transient.World_17:PersistentLevel.coral_BP_C_0
+	Function /Game/vfx/coral_BP.coral_BP_C:UserConstructionScript:007A
+[2023.02.04-07.52.23:415][ 16]LogScript: Warning: Accessed None trying to read property Target
+	coral_BP_C /Engine/Transient.World_17:PersistentLevel.coral_BP_C_0
+	Function /Game/vfx/coral_BP.coral_BP_C:UserConstructionScript:007A
+[2023.02.04-07.52.43:457][ 40]BlueprintLog: New page: Compile coral_BP
+[2023.02.04-07.52.43:459][ 40]LogBlueprint: Warning: [AssetLog] C:\Users\rfu\Documents\ggj\LSR\LSR\Content\vfx\coral_BP.uasset: [Compiler] 'Static Mesh' does not inherit from 'Actor' ( Cast To StaticMesh  would always fail).
+[2023.02.04-07.52.43:514][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.02.04-07.53.29:489][477]BlueprintLog: New page: Compile coral_BP
+[2023.02.04-07.53.29:494][477]LogBlueprint: Warning: [AssetLog] C:\Users\rfu\Documents\ggj\LSR\LSR\Content\vfx\coral_BP.uasset: [Compiler] 'Static Mesh' does not inherit from 'Actor' ( Cast To StaticMesh  would always fail).
+[2023.02.04-07.53.29:548][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.02.04-07.54.23:723][423]BlueprintLog: New page: Compile coral_BP
+[2023.02.04-07.54.23:725][423]LogBlueprint: Warning: [AssetLog] C:\Users\rfu\Documents\ggj\LSR\LSR\Content\vfx\coral_BP.uasset: [Compiler] 'Static Mesh' does not inherit from 'Static Mesh Actor' ( Cast To StaticMesh  would always fail).
+[2023.02.04-07.54.23:783][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.02.04-07.54.34:469][969]BlueprintLog: New page: Compile coral_BP
+[2023.02.04-07.54.34:530][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.02.04-07.54.34:857][983]BlueprintLog: New page: Compile coral_BP
+[2023.02.04-07.54.34:921][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.02.04-07.55.49:616][394]LogStaticMesh: Display: Building static mesh Shape_Sphere...
+[2023.02.04-07.55.49:624][394]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere
+[2023.02.04-07.55.55:133][469]LogEditorTransaction: Undo Change Object Pin Value
+[2023.02.04-07.56.06:421][ 50]BlueprintLog: New page: Compile coral_BP
+[2023.02.04-07.56.06:484][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.02.04-07.56.09:079][149]LogShaderCompilers: Display: ================================================
+[2023.02.04-07.56.09:079][149]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.04-07.56.09:079][149]LogShaderCompilers: Display: Total job queries 2685, among them cache hits 216 (8.04%)
+[2023.02.04-07.56.09:079][149]LogShaderCompilers: Display: Tracking 2422 distinct input hashes that result in 1280 distinct outputs (52.85%)
+[2023.02.04-07.56.09:079][149]LogShaderCompilers: Display: RAM used: 6.74 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.82%
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display: Shaders Compiled: 2422
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display: Jobs assigned 2425, completed 2422 (99.88%)
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display: Average time worker was idle: 7.25 s
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display: Time job spent in pending queue: average 296.86 s, longest 643.47 s
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display: Job execution time: average 3.43 s, max 102.35 s
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display: Job life time (pending + execution): average 300.66 s, max 648.55
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 787.31 s
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display: Jobs were issued in 2387 batches (only local compilation was used), average 1.02 jobs/batch
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display: Average processing rate: 3.08 jobs/sec
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display: Total thread time: 5623.82 s
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display: Total thread preprocess time: 216.69 s
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display: Percentage time preprocessing: 3.85%
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display: Effective parallelization: 7.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 29.98 sec, max 29.98 sec, min 29.98 sec)
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 27.59 sec, max 27.59 sec, min 27.59 sec)
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 22.12 sec, max 45.28 sec, min 6.18 sec)
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 19.63 sec, max 19.63 sec, min 19.63 sec)
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 15.91 sec, max 15.91 sec, min 15.91 sec)
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.31% of total time (compiled  165 times, average 3.17 sec, max 26.20 sec, min 0.53 sec)
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.47% of total time (compiled  172 times, average 2.44 sec, max 8.25 sec, min 0.83 sec)
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.77% of total time (compiled  172 times, average 2.21 sec, max 8.43 sec, min 0.90 sec)
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 6.69% of total time (compiled   17 times, average 22.12 sec, max 45.28 sec, min 6.18 sec)
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.91% of total time (compiled  166 times, average 1.66 sec, max 4.89 sec, min 0.44 sec)
+[2023.02.04-07.56.09:080][149]LogShaderCompilers: Display: ================================================
+[2023.02.04-07.56.26:990][489]BlueprintLog: New page: Compile coral_BP
+[2023.02.04-07.56.27:088][489]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2023.02.04-07.58.26:556][296]BlueprintLog: New page: Compile coral_BP
+[2023.02.04-07.58.26:645][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.02.04-08.02.43:524][741]BlueprintLog: New page: Compile coral_BP
+[2023.02.04-08.02.43:560][741]LogMaterial: Display: Material /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2023.02.04-08.02.43:658][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display: ================================================
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display: Total job queries 2735, among them cache hits 220 (8.04%)
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display: Tracking 2425 distinct input hashes that result in 1280 distinct outputs (52.78%)
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display: RAM used: 6.74 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.82%
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display: Shaders Compiled: 2425
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display: Jobs assigned 2425, completed 2425 (100.00%)
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display: Average time worker was idle: 7.25 s
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display: Time job spent in pending queue: average 296.86 s, longest 643.47 s
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display: Job execution time: average 3.43 s, max 102.35 s
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display: Job life time (pending + execution): average 300.29 s, max 648.55
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 788.13 s
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display: Jobs were issued in 2387 batches (only local compilation was used), average 1.02 jobs/batch
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display: Average processing rate: 3.08 jobs/sec
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display: Total thread time: 5627.80 s
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display: Total thread preprocess time: 216.85 s
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display: Percentage time preprocessing: 3.85%
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display: Effective parallelization: 7.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 29.98 sec, max 29.98 sec, min 29.98 sec)
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 27.59 sec, max 27.59 sec, min 27.59 sec)
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 22.12 sec, max 45.28 sec, min 6.18 sec)
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 19.63 sec, max 19.63 sec, min 19.63 sec)
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 15.91 sec, max 15.91 sec, min 15.91 sec)
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.30% of total time (compiled  165 times, average 3.17 sec, max 26.20 sec, min 0.53 sec)
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.49% of total time (compiled  173 times, average 2.44 sec, max 8.25 sec, min 0.83 sec)
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.79% of total time (compiled  173 times, average 2.21 sec, max 8.43 sec, min 0.90 sec)
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 6.68% of total time (compiled   17 times, average 22.12 sec, max 45.28 sec, min 6.18 sec)
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.90% of total time (compiled  166 times, average 1.66 sec, max 4.89 sec, min 0.44 sec)
+[2023.02.04-08.02.43:683][741]LogShaderCompilers: Display: ================================================
+[2023.02.04-08.02.49:993][871]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-08.02.50:079][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/vfx/coral_BP" FILE="../../../../LSR/LSR/Content/vfx/coral_BP.uasset" SILENT=true
+[2023.02.04-08.02.50:104][871]LogSavePackage: Moving output files for package: /Game/vfx/coral_BP
+[2023.02.04-08.02.50:106][871]LogSavePackage: Moving '../../../../LSR/LSR/Saved/coral_BP965EF26E4E7556C3222517BC69F4B3BC.tmp' to '../../../../LSR/LSR/Content/vfx/coral_BP.uasset'
+[2023.02.04-08.02.50:130][871]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 2:51 min)
+[2023.02.04-08.02.50:169][871]AssetCheck: New page: Asset Save: coral_BP
+[2023.02.04-08.02.50:169][871]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/vfx/coral_BP.coral_BP
+[2023.02.04-08.02.50:809][888]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/vfx/coral_BP.coral_BP_C
+[2023.02.04-08.02.50:809][888]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/vfx/coral_BP.coral_BP_C
+[2023.02.04-08.02.50:815][888]LogActorFactory: Actor Factory spawned Blueprint /Game/vfx/coral_BP.coral_BP as actor: coral_BP_C /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.coral_BP_C_0
+[2023.02.04-08.02.50:824][888]LogActorFactory: Actor Factory spawned Blueprint /Game/vfx/coral_BP.coral_BP as actor: coral_BP_C /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.coral_BP_C_0
+[2023.02.04-08.02.51:225][893]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/vfx/coral_BP.coral_BP_C
+[2023.02.04-08.02.51:226][893]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/vfx/coral_BP.coral_BP_C
+[2023.02.04-08.02.51:232][893]LogActorFactory: Actor Factory spawned Blueprint /Game/vfx/coral_BP.coral_BP as actor: coral_BP_C /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.coral_BP_C_1
+[2023.02.04-08.02.51:234][893]LogActorFactory: Actor Factory spawned Blueprint /Game/vfx/coral_BP.coral_BP as actor: coral_BP_C /Game/material/vfx_LVL.vfx_LVL:PersistentLevel.coral_BP_C_1
+[2023.02.04-08.02.52:531][921]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.02.04-08.04.28:003][415]BlueprintLog: New page: Compile coral_BP
+[2023.02.04-08.04.28:070][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.02.04-08.04.35:345][748]LogMaterial: Display: Material /Game/material/coral_MAT.coral_MAT needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2023.02.04-08.04.36:826][779]BlueprintLog: New page: Compile coral_BP
+[2023.02.04-08.04.37:032][779]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2023.02.04-08.04.43:190][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-08.04.43:254][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/material/vfx_LVL" FILE="../../../../LSR/LSR/Content/material/vfx_LVL.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.04-08.04.43:290][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.02.04-08.04.43:294][ 15]LogSavePackage: Moving output files for package: /Game/material/vfx_LVL
+[2023.02.04-08.04.43:295][ 15]LogSavePackage: Moving '../../../../LSR/LSR/Saved/vfx_LVL438DF0B94C2EACF88C2D4296EDDEE67B.tmp' to '../../../../LSR/LSR/Content/material/vfx_LVL.umap'
+[2023.02.04-08.04.43:302][ 15]LogFileHelpers: Saving map 'vfx_LVL' took 0.048
+[2023.02.04-08.04.43:319][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 2:51 min)
+[2023.02.04-08.04.43:333][ 15]AssetCheck: New page: Asset Save: vfx_LVL
+[2023.02.04-08.04.43:333][ 15]LogContentValidation: Display: Validating /Script/Engine.World /Game/material/vfx_LVL.vfx_LVL
+[2023.02.04-08.04.44:369][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-08.04.44:420][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/vfx/coral_BP" FILE="../../../../LSR/LSR/Content/vfx/coral_BP.uasset" SILENT=true
+[2023.02.04-08.04.44:433][ 77]LogSavePackage: Moving output files for package: /Game/vfx/coral_BP
+[2023.02.04-08.04.44:433][ 77]LogSavePackage: Moving '../../../../LSR/LSR/Saved/coral_BP1F8276FD4D701283906D11A40FDFA5DB.tmp' to '../../../../LSR/LSR/Content/vfx/coral_BP.uasset'
+[2023.02.04-08.04.44:439][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 2:51 min)
+[2023.02.04-08.04.44:447][ 77]AssetCheck: New page: Asset Save: coral_BP
+[2023.02.04-08.04.44:447][ 77]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/vfx/coral_BP.coral_BP
+[2023.02.04-08.06.06:476][395]LogEditorViewport: Clicking Background
+[2023.02.04-08.06.17:260][170]LogEditorViewport: Clicking Background
+[2023.02.04-08.06.43:415][929]LogEditorViewport: Clicking Background
+[2023.02.04-08.06.44:190][987]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-08.06.44:251][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/material/vfx_LVL" FILE="../../../../LSR/LSR/Content/material/vfx_LVL.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.04-08.06.44:299][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.02.04-08.06.44:306][987]LogSavePackage: Moving output files for package: /Game/material/vfx_LVL
+[2023.02.04-08.06.44:307][987]LogSavePackage: Moving '../../../../LSR/LSR/Saved/vfx_LVL5F5612E6438A1A5565AF54A9672D591A.tmp' to '../../../../LSR/LSR/Content/material/vfx_LVL.umap'
+[2023.02.04-08.06.44:312][987]LogFileHelpers: Saving map 'vfx_LVL' took 0.062
+[2023.02.04-08.06.44:326][987]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 2:52 min)
+[2023.02.04-08.06.44:335][987]AssetCheck: New page: Asset Save: vfx_LVL
+[2023.02.04-08.06.44:335][987]LogContentValidation: Display: Validating /Script/Engine.World /Game/material/vfx_LVL.vfx_LVL
+[2023.02.04-08.10.16:950][755]LogEditorViewport: Clicking Background
+[2023.02.04-08.10.17:589][811]LogEditorViewport: Clicking Background
+[2023.02.04-08.10.19:894][977]LogEditorViewport: Clicking Background
+[2023.02.04-08.11.10:926][860]LogEditorViewport: Clicking Background
+[2023.02.04-08.16.44:354][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.02.04-08.16.44:357][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/material/vfx_LVL" FILE="../../../../LSR/LSR/Saved/Autosaves/Game/material/vfx_LVL_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.02.04-08.16.44:361][277]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/material/vfx_LVL_Auto3
+[2023.02.04-08.16.44:361][277]LogSavePackage: Moving '../../../../LSR/LSR/Saved/vfx_LVL_Auto3163403864DB4F488146B64BDDF3F1DAF.tmp' to '../../../../LSR/LSR/Saved/Autosaves/Game/material/vfx_LVL_Auto3.umap'
+[2023.02.04-08.16.44:364][277]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/material/vfx_LVL' took 0.049
+[2023.02.04-08.16.44:364][277]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2023.02.04-08.16.44:364][277]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/material/coral_MAT] ([1] browsable assets)...
+[2023.02.04-08.16.44:364][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/material/coral_MAT]
+[2023.02.04-08.16.44:364][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/material/coral_MAT" FILE="../../../../LSR/LSR/Saved/Autosaves/Game/material/coral_MAT_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.02.04-08.16.44:366][277]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/material/coral_MAT_Auto3
+[2023.02.04-08.16.44:366][277]LogSavePackage: Moving '../../../../LSR/LSR/Saved/coral_MAT_Auto35B8AAB204C08452A5128FB9FF1C970BA.tmp' to '../../../../LSR/LSR/Saved/Autosaves/Game/material/coral_MAT_Auto3.uasset'
+[2023.02.04-08.16.44:366][277]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/material/coral_INS] ([1] browsable assets)...
+[2023.02.04-08.16.44:410][277]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/material/coral_INS.coral_INS]
+[2023.02.04-08.16.44:410][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/material/coral_INS]
+[2023.02.04-08.16.44:410][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/material/coral_INS" FILE="../../../../LSR/LSR/Saved/Autosaves/Game/material/coral_INS_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.02.04-08.16.44:412][277]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/material/coral_INS_Auto3
+[2023.02.04-08.16.44:413][277]LogSavePackage: Moving '../../../../LSR/LSR/Saved/coral_INS_Auto3DA09AA804D95DE50247D3086777063E3.tmp' to '../../../../LSR/LSR/Saved/Autosaves/Game/material/coral_INS_Auto3.uasset'
+[2023.02.04-08.16.44:414][277]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Basic_Wall] ([1] browsable assets)...
+[2023.02.04-08.16.44:433][277]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall]
+[2023.02.04-08.16.44:433][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Basic_Wall]
+[2023.02.04-08.16.44:433][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Basic_Wall" FILE="../../../../LSR/LSR/Saved/Autosaves/Game/StarterContent/Materials/M_Basic_Wall_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.02.04-08.16.44:435][277]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/M_Basic_Wall_Auto3
+[2023.02.04-08.16.44:435][277]LogSavePackage: Moving '../../../../LSR/LSR/Saved/M_Basic_Wall_Auto3655E2EA8405D61DE01170893F8B0FD80.tmp' to '../../../../LSR/LSR/Saved/Autosaves/Game/StarterContent/Materials/M_Basic_Wall_Auto3.uasset'
+[2023.02.04-08.16.44:436][277]LogFileHelpers: Auto-saving content packages took 0.073
+[2023.02.04-08.19.51:636][839]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-08.19.51:701][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/material/vfx_LVL" FILE="../../../../LSR/LSR/Content/material/vfx_LVL.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.04-08.19.51:738][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.02.04-08.19.51:744][839]LogSavePackage: Moving output files for package: /Game/material/vfx_LVL
+[2023.02.04-08.19.51:745][839]LogSavePackage: Moving '../../../../LSR/LSR/Saved/vfx_LVLEDCB3A804BB1ABE23C7D52A64E6DFDD4.tmp' to '../../../../LSR/LSR/Content/material/vfx_LVL.umap'
+[2023.02.04-08.19.51:750][839]LogFileHelpers: Saving map 'vfx_LVL' took 0.049
+[2023.02.04-08.19.51:757][839]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 2:52 min)
+[2023.02.04-08.19.51:763][839]AssetCheck: New page: Asset Save: vfx_LVL
+[2023.02.04-08.19.51:763][839]LogContentValidation: Display: Validating /Script/Engine.World /Game/material/vfx_LVL.vfx_LVL
+[2023.02.04-08.19.52:576][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-08.19.52:617][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/material/vfx_LVL" FILE="../../../../LSR/LSR/Content/material/vfx_LVL.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.02.04-08.19.52:654][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.02.04-08.19.52:658][898]LogSavePackage: Moving output files for package: /Game/material/vfx_LVL
+[2023.02.04-08.19.52:659][898]LogSavePackage: Moving '../../../../LSR/LSR/Saved/vfx_LVL69EF24E5466C66C09C32B88B1391B9AB.tmp' to '../../../../LSR/LSR/Content/material/vfx_LVL.umap'
+[2023.02.04-08.19.52:665][898]LogFileHelpers: Saving map 'vfx_LVL' took 0.048
+[2023.02.04-08.19.52:670][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 2:52 min)
+[2023.02.04-08.19.52:679][898]AssetCheck: New page: Asset Save: vfx_LVL
+[2023.02.04-08.19.52:679][898]LogContentValidation: Display: Validating /Script/Engine.World /Game/material/vfx_LVL.vfx_LVL
+[2023.02.04-08.19.53:998][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.02.04-08.19.55:799][  7]LogSlate: Window 'Save Content' being destroyed
+[2023.02.04-08.19.55:808][  7]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-08.19.55:870][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/material/coral_INS" FILE="../../../../LSR/LSR/Content/material/coral_INS.uasset" SILENT=true
+[2023.02.04-08.19.55:872][  7]LogSavePackage: Moving output files for package: /Game/material/coral_INS
+[2023.02.04-08.19.55:873][  7]LogSavePackage: Moving '../../../../LSR/LSR/Saved/coral_INSF3845C874E1459F78F814C878CB823C7.tmp' to '../../../../LSR/LSR/Content/material/coral_INS.uasset'
+[2023.02.04-08.19.55:874][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/material/coral_MAT" FILE="../../../../LSR/LSR/Content/material/coral_MAT.uasset" SILENT=true
+[2023.02.04-08.19.55:876][  7]LogSavePackage: Moving output files for package: /Game/material/coral_MAT
+[2023.02.04-08.19.55:876][  7]LogSavePackage: Moving '../../../../LSR/LSR/Saved/coral_MAT724E203845ADE27B643C4F89F13164CB.tmp' to '../../../../LSR/LSR/Content/material/coral_MAT.uasset'
+[2023.02.04-08.19.55:877][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Basic_Wall" FILE="../../../../LSR/LSR/Content/StarterContent/Materials/M_Basic_Wall.uasset" SILENT=true
+[2023.02.04-08.19.55:879][  7]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/M_Basic_Wall
+[2023.02.04-08.19.55:879][  7]LogSavePackage: Moving '../../../../LSR/LSR/Saved/M_Basic_Wall62E1C18C4EED396866ADBD95BFE4A369.tmp' to '../../../../LSR/LSR/Content/StarterContent/Materials/M_Basic_Wall.uasset'
+[2023.02.04-08.19.55:889][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 2:52 min)
+[2023.02.04-08.19.55:889][  7]LogStall: Shutdown...
+[2023.02.04-08.19.55:903][  7]LogStall: Shutdown complete.
+[2023.02.04-08.19.55:913][  7]LogSlate: Window 'coral_BP' being destroyed
+[2023.02.04-08.19.55:954][  7]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-08.19.55:954][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-08.19.56:134][  7]LogSlate: Window 'LSR - Unreal Editor' being destroyed
+[2023.02.04-08.19.56:369][  7]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.04-08.19.56:369][  7]LogContentValidation: Display: Validating /Script/Engine.Material /Game/material/coral_MAT.coral_MAT
+[2023.02.04-08.19.56:369][  7]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/material/coral_INS.coral_INS
+[2023.02.04-08.19.56:369][  7]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall
+[2023.02.04-08.19.56:371][  8]Cmd: QUIT_EDITOR
+[2023.02.04-08.19.56:371][  8]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.02.04-08.19.56:377][  8]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.02.04-08.19.56:377][  8]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.02.04-08.19.56:377][  8]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.02.04-08.19.56:379][  8]LogWorld: UWorld::CleanupWorld for vfx_LVL, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-08.19.56:379][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-08.19.56:384][  8]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.02.04-08.19.56:387][  8]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.02.04-08.19.56:668][  8]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.02.04-08.19.56:668][  8]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.02.04-08.19.56:668][  8]LogAudio: Display: Audio Device unregistered from world 'vfx_LVL'.
+[2023.02.04-08.19.56:671][  8]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.02.04-08.19.56:676][  8]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.02.04-08.19.56:698][  8]LogAudio: Display: Audio Device Manager Shutdown
+[2023.02.04-08.19.56:703][  8]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.02.04-08.19.56:704][  8]LogExit: Preparing to exit.
+[2023.02.04-08.19.56:766][  8]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2023.02.04-08.19.56:775][  8]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-08.19.56:775][  8]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-08.19.56:782][  8]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-08.19.56:782][  8]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-08.19.56:782][  8]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-08.19.56:782][  8]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-08.19.56:782][  8]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-08.19.56:782][  8]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-08.19.56:782][  8]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-08.19.56:782][  8]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-08.19.56:782][  8]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-08.19.56:783][  8]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-08.19.56:783][  8]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-08.19.56:783][  8]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-08.19.56:783][  8]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-08.19.56:783][  8]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-08.19.56:783][  8]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-08.19.56:783][  8]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-08.19.56:783][  8]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.02.04-08.19.58:110][  8]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-08.19.58:114][  8]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-08.19.58:117][  8]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-08.19.58:120][  8]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-08.19.58:123][  8]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-08.19.58:127][  8]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-08.19.58:131][  8]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-08.19.58:134][  8]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-08.19.58:227][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-08.19.58:227][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-08.19.58:227][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-08.19.58:227][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-08.19.58:227][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-08.19.58:227][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-08.19.58:227][  8]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.02.04-08.19.58:227][  8]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-08.19.58:262][  8]LogExit: Editor shut down
+[2023.02.04-08.19.58:278][  8]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.02.04-08.19.58:321][  8]LogExit: Transaction tracking system shut down
+[2023.02.04-08.19.58:768][  8]LogExit: Object subsystem successfully closed.
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display: ================================================
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display: Total job queries 2767, among them cache hits 235 (8.49%)
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display: Tracking 2488 distinct input hashes that result in 1289 distinct outputs (51.81%)
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display: RAM used: 6.93 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.85%
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display: Shaders Compiled: 2488
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display: Jobs assigned 2488, completed 2488 (100.00%)
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display: Average time worker was idle: 12.62 s
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display: Time job spent in pending queue: average 289.40 s, longest 643.47 s
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display: Job execution time: average 3.56 s, max 102.35 s
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display: Job life time (pending + execution): average 292.95 s, max 648.55
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 809.60 s
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display: Jobs were issued in 2420 batches (only local compilation was used), average 1.03 jobs/batch
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display: Average processing rate: 3.07 jobs/sec
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display: Total thread time: 5780.65 s
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display: Total thread preprocess time: 223.20 s
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display: Percentage time preprocessing: 3.86%
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display: Effective parallelization: 7.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 29.98 sec, max 29.98 sec, min 29.98 sec)
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 27.59 sec, max 27.59 sec, min 27.59 sec)
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   17 times, average 22.12 sec, max 45.28 sec, min 6.18 sec)
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 19.63 sec, max 19.63 sec, min 19.63 sec)
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 15.91 sec, max 15.91 sec, min 15.91 sec)
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.16% of total time (compiled  168 times, average 3.15 sec, max 26.20 sec, min 0.53 sec)
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.39% of total time (compiled  175 times, average 2.44 sec, max 8.25 sec, min 0.83 sec)
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.71% of total time (compiled  175 times, average 2.22 sec, max 8.43 sec, min 0.90 sec)
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 6.50% of total time (compiled   17 times, average 22.12 sec, max 45.28 sec, min 6.18 sec)
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.89% of total time (compiled  170 times, average 1.66 sec, max 4.89 sec, min 0.44 sec)
+[2023.02.04-08.19.58:779][  8]LogShaderCompilers: Display: ================================================
+[2023.02.04-08.19.58:866][  8]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.02.04-08.19.58:925][  8]LogVirtualization: UE::Virtualization was shutdown
+[2023.02.04-08.19.59:027][  8]LogModuleManager: Shutting down and abandoning module BlueprintGraph (995)
+[2023.02.04-08.19.59:028][  8]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (993)
+[2023.02.04-08.19.59:028][  8]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (991)
+[2023.02.04-08.19.59:028][  8]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (989)
+[2023.02.04-08.19.59:028][  8]LogModuleManager: Shutting down and abandoning module AddContentDialog (987)
+[2023.02.04-08.19.59:041][  8]LogModuleManager: Shutting down and abandoning module WidgetCarousel (986)
+[2023.02.04-08.19.59:041][  8]LogModuleManager: Shutting down and abandoning module SubobjectEditor (983)
+[2023.02.04-08.19.59:041][  8]LogModuleManager: Shutting down and abandoning module SceneOutliner (981)
+[2023.02.04-08.19.59:041][  8]LogModuleManager: Shutting down and abandoning module StatusBar (979)
+[2023.02.04-08.19.59:041][  8]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (977)
+[2023.02.04-08.19.59:041][  8]LogModuleManager: Shutting down and abandoning module StatsViewer (975)
+[2023.02.04-08.19.59:042][  8]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (973)
+[2023.02.04-08.19.59:042][  8]LogModuleManager: Shutting down and abandoning module AutomationWorker (971)
+[2023.02.04-08.19.59:042][  8]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (969)
+[2023.02.04-08.19.59:042][  8]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (967)
+[2023.02.04-08.19.59:043][  8]LogModuleManager: Shutting down and abandoning module TakesCore (965)
+[2023.02.04-08.19.59:043][  8]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (963)
+[2023.02.04-08.19.59:043][  8]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (961)
+[2023.02.04-08.19.59:044][  8]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (959)
+[2023.02.04-08.19.59:044][  8]LogModuleManager: Shutting down and abandoning module TextureAlignMode (957)
+[2023.02.04-08.19.59:044][  8]LogModuleManager: Shutting down and abandoning module BspMode (955)
+[2023.02.04-08.19.59:044][  8]LogModuleManager: Shutting down and abandoning module GeometryMode (953)
+[2023.02.04-08.19.59:045][  8]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (951)
+[2023.02.04-08.19.59:045][  8]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (949)
+[2023.02.04-08.19.59:045][  8]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (947)
+[2023.02.04-08.19.59:045][  8]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (945)
+[2023.02.04-08.19.59:045][  8]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (943)
+[2023.02.04-08.19.59:045][  8]LogModuleManager: Shutting down and abandoning module WebMMedia (941)
+[2023.02.04-08.19.59:045][  8]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (939)
+[2023.02.04-08.19.59:046][  8]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (937)
+[2023.02.04-08.19.59:046][  8]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (935)
+[2023.02.04-08.19.59:047][  8]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (933)
+[2023.02.04-08.19.59:047][  8]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (931)
+[2023.02.04-08.19.59:047][  8]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (929)
+[2023.02.04-08.19.59:047][  8]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (927)
+[2023.02.04-08.19.59:047][  8]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (925)
+[2023.02.04-08.19.59:047][  8]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (923)
+[2023.02.04-08.19.59:047][  8]LogModuleManager: Shutting down and abandoning module WaveTableEditor (921)
+[2023.02.04-08.19.59:048][  8]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (919)
+[2023.02.04-08.19.59:048][  8]LogModuleManager: Shutting down and abandoning module GooglePADEditor (917)
+[2023.02.04-08.19.59:048][  8]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (915)
+[2023.02.04-08.19.59:048][  8]LogModuleManager: Shutting down and abandoning module SequenceRecorder (914)
+[2023.02.04-08.19.59:049][  8]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (911)
+[2023.02.04-08.19.59:049][  8]LogModuleManager: Shutting down and abandoning module IKRigEditor (909)
+[2023.02.04-08.19.59:050][  8]LogModuleManager: Shutting down and abandoning module ControlRigEditor (907)
+[2023.02.04-08.19.59:051][  8]LogModuleManager: Shutting down and abandoning module PlanarCut (905)
+[2023.02.04-08.19.59:052][  8]LogModuleManager: Shutting down and abandoning module CharacterAI (903)
+[2023.02.04-08.19.59:052][  8]LogModuleManager: Shutting down and abandoning module SmartSnapping (901)
+[2023.02.04-08.19.59:052][  8]LogModuleManager: Shutting down and abandoning module SessionServices (899)
+[2023.02.04-08.19.59:052][  8]LogModuleManager: Shutting down and abandoning module MeshPaint (897)
+[2023.02.04-08.19.59:053][  8]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (895)
+[2023.02.04-08.19.59:053][  8]LogModuleManager: Shutting down and abandoning module PlacementMode (894)
+[2023.02.04-08.19.59:053][  8]LogModuleManager: Shutting down and abandoning module FoliageEdit (891)
+[2023.02.04-08.19.59:054][  8]LogModuleManager: Shutting down and abandoning module LandscapeEditor (889)
+[2023.02.04-08.19.59:056][  8]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (887)
+[2023.02.04-08.19.59:056][  8]LogModuleManager: Shutting down and abandoning module ActorPickerMode (885)
+[2023.02.04-08.19.59:056][  8]LogModuleManager: Shutting down and abandoning module ViewportSnapping (883)
+[2023.02.04-08.19.59:056][  8]LogModuleManager: Shutting down and abandoning module ViewportInteraction (881)
+[2023.02.04-08.19.59:056][  8]LogModuleManager: Shutting down and abandoning module ClothPainter (879)
+[2023.02.04-08.19.59:056][  8]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (878)
+[2023.02.04-08.19.59:057][  8]LogModuleManager: Shutting down and abandoning module LogVisualizer (875)
+[2023.02.04-08.19.59:058][  8]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (873)
+[2023.02.04-08.19.59:059][  8]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (871)
+[2023.02.04-08.19.59:059][  8]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (870)
+[2023.02.04-08.19.59:059][  8]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (868)
+[2023.02.04-08.19.59:611][  8]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (865)
+[2023.02.04-08.19.59:611][  8]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (863)
+[2023.02.04-08.19.59:611][  8]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (861)
+[2023.02.04-08.19.59:611][  8]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (859)
+[2023.02.04-08.19.59:611][  8]LogModuleManager: Shutting down and abandoning module AnimationSettings (857)
+[2023.02.04-08.19.59:611][  8]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (855)
+[2023.02.04-08.19.59:611][  8]LogModuleManager: Shutting down and abandoning module CSVtoSVG (853)
+[2023.02.04-08.19.59:611][  8]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (851)
+[2023.02.04-08.19.59:611][  8]LogModuleManager: Shutting down and abandoning module EditorConfig (849)
+[2023.02.04-08.19.59:611][  8]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (847)
+[2023.02.04-08.19.59:612][  8]LogModuleManager: Shutting down and abandoning module EditorFramework (845)
+[2023.02.04-08.19.59:612][  8]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (843)
+[2023.02.04-08.19.59:613][  8]LogModuleManager: Shutting down and abandoning module TraceInsights (841)
+[2023.02.04-08.19.59:617][  8]MemoryProfiler: Shutdown
+[2023.02.04-08.19.59:618][  8]NetworkingProfiler: Shutdown
+[2023.02.04-08.19.59:618][  8]LoadingProfiler: Shutdown
+[2023.02.04-08.19.59:618][  8]TimingProfiler: Shutdown
+[2023.02.04-08.19.59:622][  8]LogModuleManager: Shutting down and abandoning module TraceServices (840)
+[2023.02.04-08.19.59:623][  8]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (837)
+[2023.02.04-08.19.59:623][  8]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (836)
+[2023.02.04-08.19.59:623][  8]LogModuleManager: Shutting down and abandoning module InputBindingEditor (833)
+[2023.02.04-08.19.59:623][  8]LogModuleManager: Shutting down and abandoning module MergeActors (831)
+[2023.02.04-08.19.59:624][  8]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (829)
+[2023.02.04-08.19.59:624][  8]LogModuleManager: Shutting down and abandoning module LocalizationService (828)
+[2023.02.04-08.19.59:624][  8]LogModuleManager: Shutting down and abandoning module HardwareTargeting (825)
+[2023.02.04-08.19.59:624][  8]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (823)
+[2023.02.04-08.19.59:624][  8]LogModuleManager: Shutting down and abandoning module UndoHistory (821)
+[2023.02.04-08.19.59:625][  8]LogModuleManager: Shutting down and abandoning module XmlParser (819)
+[2023.02.04-08.19.59:625][  8]LogModuleManager: Shutting down and abandoning module Blutility (817)
+[2023.02.04-08.19.59:625][  8]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (815)
+[2023.02.04-08.19.59:625][  8]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (814)
+[2023.02.04-08.19.59:625][  8]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (811)
+[2023.02.04-08.19.59:625][  8]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (810)
+[2023.02.04-08.19.59:625][  8]LogModuleManager: Shutting down and abandoning module SettingsEditor (807)
+[2023.02.04-08.19.59:625][  8]LogModuleManager: Shutting down and abandoning module ProjectLauncher (805)
+[2023.02.04-08.19.59:626][  8]LogModuleManager: Shutting down and abandoning module SessionFrontend (803)
+[2023.02.04-08.19.59:626][  8]LogModuleManager: Shutting down and abandoning module ProfilerClient (801)
+[2023.02.04-08.19.59:626][  8]LogModuleManager: Shutting down and abandoning module DeviceManager (799)
+[2023.02.04-08.19.59:627][  8]LogModuleManager: Shutting down and abandoning module AutomationController (797)
+[2023.02.04-08.19.59:627][  8]LogModuleManager: Shutting down and abandoning module AutomationWindow (795)
+[2023.02.04-08.19.59:628][  8]LogModuleManager: Shutting down and abandoning module Layers (793)
+[2023.02.04-08.19.59:629][  8]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (791)
+[2023.02.04-08.19.59:630][  8]LogModuleManager: Shutting down and abandoning module DetailCustomizations (789)
+[2023.02.04-08.19.59:630][  8]LogModuleManager: Shutting down and abandoning module PackagesDialog (787)
+[2023.02.04-08.19.59:630][  8]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (785)
+[2023.02.04-08.19.59:631][  8]LogModuleManager: Shutting down and abandoning module Persona (783)
+[2023.02.04-08.19.59:632][  8]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (782)
+[2023.02.04-08.19.59:632][  8]LogModuleManager: Shutting down and abandoning module AnimGraph (780)
+[2023.02.04-08.19.59:632][  8]LogModuleManager: Shutting down and abandoning module Kismet (777)
+[2023.02.04-08.19.59:642][  8]LogModuleManager: Shutting down and abandoning module KismetWidgets (776)
+[2023.02.04-08.19.59:642][  8]LogModuleManager: Shutting down and abandoning module GraphEditor (773)
+[2023.02.04-08.19.59:642][  8]LogModuleManager: Shutting down and abandoning module StructViewer (771)
+[2023.02.04-08.19.59:642][  8]LogModuleManager: Shutting down and abandoning module ClassViewer (769)
+[2023.02.04-08.19.59:646][  8]LogModuleManager: Shutting down and abandoning module NaniteTools (767)
+[2023.02.04-08.19.59:646][  8]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (765)
+[2023.02.04-08.19.59:648][  8]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (763)
+[2023.02.04-08.19.59:648][  8]LogModuleManager: Shutting down and abandoning module SourceControlWindows (761)
+[2023.02.04-08.19.59:649][  8]LogModuleManager: Shutting down and abandoning module OutputLog (759)
+[2023.02.04-08.19.59:650][  8]LogModuleManager: Shutting down and abandoning module Documentation (757)
+[2023.02.04-08.19.59:650][  8]LogModuleManager: Shutting down and abandoning module LiveCoding (755)
+[2023.02.04-08.19.59:661][  8]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (753)
+[2023.02.04-08.19.59:661][  8]LogModuleManager: Shutting down and abandoning module MovieScene (751)
+[2023.02.04-08.19.59:661][  8]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (749)
+[2023.02.04-08.19.59:662][  8]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (747)
+[2023.02.04-08.19.59:662][  8]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (745)
+[2023.02.04-08.19.59:662][  8]LogModuleManager: Shutting down and abandoning module AudioMixer (744)
+[2023.02.04-08.19.59:662][  8]LogModuleManager: Shutting down and abandoning module AudioMixerCore (743)
+[2023.02.04-08.19.59:662][  8]LogModuleManager: Shutting down and abandoning module LauncherPlatform (739)
+[2023.02.04-08.19.59:662][  8]LogModuleManager: Shutting down and abandoning module AnalyticsET (737)
+[2023.02.04-08.19.59:662][  8]LogModuleManager: Shutting down and abandoning module PortalServices (735)
+[2023.02.04-08.19.59:662][  8]LogModuleManager: Shutting down and abandoning module PortalRpc (733)
+[2023.02.04-08.19.59:662][  8]LogModuleManager: Shutting down and abandoning module MessagingRpc (731)
+[2023.02.04-08.19.59:662][  8]LogModuleManager: Shutting down and abandoning module AIModule (729)
+[2023.02.04-08.19.59:662][  8]LogModuleManager: Shutting down and abandoning module GameplayDebugger (728)
+[2023.02.04-08.19.59:662][  8]LogModuleManager: Shutting down and abandoning module AITestSuite (726)
+[2023.02.04-08.19.59:662][  8]LogModuleManager: Shutting down and abandoning module NavigationSystem (724)
+[2023.02.04-08.19.59:662][  8]LogModuleManager: Shutting down and abandoning module DataLayerEditor (721)
+[2023.02.04-08.19.59:662][  8]LogModuleManager: Shutting down and abandoning module EditorWidgets (720)
+[2023.02.04-08.19.59:662][  8]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (717)
+[2023.02.04-08.19.59:662][  8]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (715)
+[2023.02.04-08.19.59:662][  8]LogModuleManager: Shutting down and abandoning module TypedElementFramework (713)
+[2023.02.04-08.19.59:662][  8]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (711)
+[2023.02.04-08.19.59:662][  8]LogModuleManager: Shutting down and abandoning module ProfilerService (709)
+[2023.02.04-08.19.59:719][  8]LogModuleManager: Shutting down and abandoning module TaskGraph (707)
+[2023.02.04-08.19.59:720][  8]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (705)
+[2023.02.04-08.19.59:720][  8]LogModuleManager: Shutting down and abandoning module MegascansPlugin (703)
+[2023.02.04-08.19.59:720][  8]LogModuleManager: Shutting down and abandoning module Bridge (701)
+[2023.02.04-08.19.59:721][  8]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (699)
+[2023.02.04-08.19.59:721][  8]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (697)
+[2023.02.04-08.19.59:721][  8]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (695)
+[2023.02.04-08.19.59:721][  8]LogModuleManager: Shutting down and abandoning module CollectionManager (694)
+[2023.02.04-08.19.59:721][  8]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (691)
+[2023.02.04-08.19.59:722][  8]LogModuleManager: Shutting down and abandoning module LightMixer (689)
+[2023.02.04-08.19.59:722][  8]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (687)
+[2023.02.04-08.19.59:722][  8]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (685)
+[2023.02.04-08.19.59:722][  8]LogModuleManager: Shutting down and abandoning module UObjectPlugin (683)
+[2023.02.04-08.19.59:722][  8]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (681)
+[2023.02.04-08.19.59:722][  8]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (679)
+[2023.02.04-08.19.59:722][  8]LogModuleManager: Shutting down and abandoning module PluginUtils (677)
+[2023.02.04-08.19.59:722][  8]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (675)
+[2023.02.04-08.19.59:723][  8]LogModuleManager: Shutting down and abandoning module GitSourceControl (673)
+[2023.02.04-08.19.59:724][  8]LogModuleManager: Shutting down and abandoning module DumpGPUServices (671)
+[2023.02.04-08.19.59:724][  8]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (669)
+[2023.02.04-08.19.59:724][  8]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (667)
+[2023.02.04-08.19.59:724][  8]LogModuleManager: Shutting down and abandoning module TakeSequencer (663)
+[2023.02.04-08.19.59:724][  8]LogModuleManager: Shutting down and abandoning module TakeMovieScene (661)
+[2023.02.04-08.19.59:724][  8]LogModuleManager: Shutting down and abandoning module TemplateSequence (659)
+[2023.02.04-08.19.59:724][  8]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (657)
+[2023.02.04-08.19.59:724][  8]LogModuleManager: Shutting down and abandoning module SequencerScripting (655)
+[2023.02.04-08.19.59:724][  8]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (653)
+[2023.02.04-08.19.59:724][  8]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (651)
+[2023.02.04-08.19.59:724][  8]LogModuleManager: Shutting down and abandoning module StylusInput (649)
+[2023.02.04-08.19.59:724][  8]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (647)
+[2023.02.04-08.19.59:724][  8]LogModuleManager: Shutting down and abandoning module PluginBrowser (645)
+[2023.02.04-08.19.59:726][  8]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (643)
+[2023.02.04-08.19.59:728][  8]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (641)
+[2023.02.04-08.19.59:728][  8]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (639)
+[2023.02.04-08.19.59:729][  8]LogModuleManager: Shutting down and abandoning module GLTFImporter (637)
+[2023.02.04-08.19.59:729][  8]LogModuleManager: Shutting down and abandoning module GLTFCore (635)
+[2023.02.04-08.19.59:729][  8]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (633)
+[2023.02.04-08.19.59:729][  8]LogModuleManager: Shutting down and abandoning module EditorDebugTools (631)
+[2023.02.04-08.19.59:729][  8]LogModuleManager: Shutting down and abandoning module CurveEditorTools (629)
+[2023.02.04-08.19.59:730][  8]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (627)
+[2023.02.04-08.19.59:730][  8]LogModuleManager: Shutting down and abandoning module CryptoKeys (625)
+[2023.02.04-08.19.59:730][  8]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (623)
+[2023.02.04-08.19.59:730][  8]LogModuleManager: Shutting down and abandoning module VariantManager (621)
+[2023.02.04-08.19.59:732][  8]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (620)
+[2023.02.04-08.19.59:733][  8]LogModuleManager: Shutting down and abandoning module GLTFMaterialBaking (617)
+[2023.02.04-08.19.59:733][  8]LogModuleManager: Shutting down and abandoning module GLTFMaterialAnalyzer (615)
+[2023.02.04-08.19.59:733][  8]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (613)
+[2023.02.04-08.19.59:734][  8]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (611)
+[2023.02.04-08.19.59:734][  8]LogModuleManager: Shutting down and abandoning module InterchangeTests (609)
+[2023.02.04-08.19.59:734][  8]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (607)
+[2023.02.04-08.19.59:734][  8]LogModuleManager: Shutting down and abandoning module MediaPlate (605)
+[2023.02.04-08.19.59:734][  8]LogModuleManager: Shutting down and abandoning module MediaCompositing (603)
+[2023.02.04-08.19.59:734][  8]LogModuleManager: Shutting down and abandoning module ImgMedia (601)
+[2023.02.04-08.19.59:734][  8]LogModuleManager: Shutting down and abandoning module AlembicImporter (599)
+[2023.02.04-08.19.59:734][  8]LogModuleManager: Shutting down and abandoning module AlembicLibrary (598)
+[2023.02.04-08.19.59:734][  8]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (595)
+[2023.02.04-08.19.59:734][  8]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (593)
+[2023.02.04-08.19.59:735][  8]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (591)
+[2023.02.04-08.19.59:735][  8]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (589)
+[2023.02.04-08.19.59:735][  8]LogModuleManager: Shutting down and abandoning module InterchangePipelines (587)
+[2023.02.04-08.19.59:735][  8]LogModuleManager: Shutting down and abandoning module InterchangeExport (585)
+[2023.02.04-08.19.59:735][  8]LogModuleManager: Shutting down and abandoning module InterchangeMessages (583)
+[2023.02.04-08.19.59:735][  8]LogModuleManager: Shutting down and abandoning module InterchangeImport (581)
+[2023.02.04-08.19.59:735][  8]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (579)
+[2023.02.04-08.19.59:735][  8]LogModuleManager: Shutting down and abandoning module InterchangeNodes (577)
+[2023.02.04-08.19.59:735][  8]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (575)
+[2023.02.04-08.19.59:735][  8]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (573)
+[2023.02.04-08.19.59:735][  8]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (571)
+[2023.02.04-08.19.59:736][  8]LogModuleManager: Shutting down and abandoning module InterchangeEditor (569)
+[2023.02.04-08.19.59:736][  8]LogModuleManager: Shutting down and abandoning module SynthesisEditor (567)
+[2023.02.04-08.19.59:736][  8]LogModuleManager: Shutting down and abandoning module ResonanceAudio (565)
+[2023.02.04-08.19.59:736][  8]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (563)
+[2023.02.04-08.19.59:736][  8]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (561)
+[2023.02.04-08.19.59:736][  8]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (559)
+[2023.02.04-08.19.59:736][  8]LogModuleManager: Shutting down and abandoning module ModelingOperators (557)
+[2023.02.04-08.19.59:736][  8]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (555)
+[2023.02.04-08.19.59:736][  8]LogModuleManager: Shutting down and abandoning module ModelingComponents (553)
+[2023.02.04-08.19.59:737][  8]LogModuleManager: Shutting down and abandoning module GeometryFramework (552)
+[2023.02.04-08.19.59:737][  8]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (549)
+[2023.02.04-08.19.59:737][  8]LogModuleManager: Shutting down and abandoning module MeshModelingTools (547)
+[2023.02.04-08.19.59:737][  8]LogModuleManager: Shutting down and abandoning module InputDebugging (545)
+[2023.02.04-08.19.59:737][  8]LogModuleManager: Shutting down and abandoning module GooglePAD (543)
+[2023.02.04-08.19.59:737][  8]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (541)
+[2023.02.04-08.19.59:737][  8]LogModuleManager: Shutting down and abandoning module GeometryCache (539)
+[2023.02.04-08.19.59:737][  8]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (537)
+[2023.02.04-08.19.59:737][  8]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (535)
+[2023.02.04-08.19.59:737][  8]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (533)
+[2023.02.04-08.19.59:737][  8]LogModuleManager: Shutting down and abandoning module DynamicMesh (531)
+[2023.02.04-08.19.59:738][  8]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (529)
+[2023.02.04-08.19.59:738][  8]LogModuleManager: Shutting down and abandoning module AudioCapture (527)
+[2023.02.04-08.19.59:738][  8]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (526)
+[2023.02.04-08.19.59:738][  8]LogModuleManager: Shutting down and abandoning module AssetTags (523)
+[2023.02.04-08.19.59:738][  8]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (521)
+[2023.02.04-08.19.59:738][  8]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (519)
+[2023.02.04-08.19.59:738][  8]LogModuleManager: Shutting down and abandoning module AppleImageUtils (517)
+[2023.02.04-08.19.59:738][  8]LogModuleManager: Shutting down and abandoning module AndroidPermission (515)
+[2023.02.04-08.19.59:738][  8]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (513)
+[2023.02.04-08.19.59:738][  8]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (511)
+[2023.02.04-08.19.59:738][  8]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (509)
+[2023.02.04-08.19.59:739][  8]LogModuleManager: Shutting down and abandoning module ControlRigSpline (507)
+[2023.02.04-08.19.59:740][  8]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (505)
+[2023.02.04-08.19.59:740][  8]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (503)
+[2023.02.04-08.19.59:740][  8]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (501)
+[2023.02.04-08.19.59:740][  8]LogModuleManager: Shutting down and abandoning module UVEditorTools (499)
+[2023.02.04-08.19.59:740][  8]LogModuleManager: Shutting down and abandoning module UVEditor (497)
+[2023.02.04-08.19.59:741][  8]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (495)
+[2023.02.04-08.19.59:741][  8]LogOpenImageDenoise: OIDN shutting down
+[2023.02.04-08.19.59:741][  8]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (493)
+[2023.02.04-08.19.59:741][  8]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (491)
+[2023.02.04-08.19.59:742][  8]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (489)
+[2023.02.04-08.19.59:742][  8]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (487)
+[2023.02.04-08.19.59:742][  8]LogModuleManager: Shutting down and abandoning module MeshLODToolset (485)
+[2023.02.04-08.19.59:742][  8]LogModuleManager: Shutting down and abandoning module Iris (483)
+[2023.02.04-08.19.59:742][  8]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (481)
+[2023.02.04-08.19.59:742][  8]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (479)
+[2023.02.04-08.19.59:742][  8]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (478)
+[2023.02.04-08.19.59:742][  8]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (476)
+[2023.02.04-08.19.59:742][  8]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (473)
+[2023.02.04-08.19.59:742][  8]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (471)
+[2023.02.04-08.19.59:743][  8]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (469)
+[2023.02.04-08.19.59:743][  8]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (467)
+[2023.02.04-08.19.59:743][  8]LogModuleManager: Shutting down and abandoning module DataflowNodes (465)
+[2023.02.04-08.19.59:743][  8]LogModuleManager: Shutting down and abandoning module DataflowEditor (463)
+[2023.02.04-08.19.59:743][  8]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (461)
+[2023.02.04-08.19.59:743][  8]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (459)
+[2023.02.04-08.19.59:743][  8]LogModuleManager: Shutting down and abandoning module ChaosNiagara (457)
+[2023.02.04-08.19.59:743][  8]LogModuleManager: Shutting down and abandoning module FractureEditor (455)
+[2023.02.04-08.19.59:744][  8]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (453)
+[2023.02.04-08.19.59:744][  8]LogModuleManager: Shutting down and abandoning module AutomationUtils (451)
+[2023.02.04-08.19.59:744][  8]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (449)
+[2023.02.04-08.19.59:744][  8]LogModuleManager: Shutting down and abandoning module BackChannel (447)
+[2023.02.04-08.19.59:745][  8]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (445)
+[2023.02.04-08.19.59:745][  8]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (443)
+[2023.02.04-08.19.59:745][  8]LogModuleManager: Shutting down and abandoning module Paper2DEditor (441)
+[2023.02.04-08.19.59:746][  8]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (439)
+[2023.02.04-08.19.59:746][  8]LogModuleManager: Shutting down and abandoning module TraceUtilities (437)
+[2023.02.04-08.19.59:746][  8]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (435)
+[2023.02.04-08.19.59:746][  8]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (433)
+[2023.02.04-08.19.59:746][  8]LogModuleManager: Shutting down and abandoning module InputEditor (431)
+[2023.02.04-08.19.59:746][  8]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (429)
+[2023.02.04-08.19.59:747][  8]LogModuleManager: Shutting down and abandoning module UdpMessaging (427)
+[2023.02.04-08.19.59:847][  8]LogModuleManager: Shutting down and abandoning module TcpMessaging (425)
+[2023.02.04-08.19.59:948][  8]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (423)
+[2023.02.04-08.19.59:949][  8]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (421)
+[2023.02.04-08.19.59:949][  8]LogModuleManager: Shutting down and abandoning module AnimationSharing (419)
+[2023.02.04-08.19.59:949][  8]LogModuleManager: Shutting down and abandoning module ActorSequence (417)
+[2023.02.04-08.19.59:949][  8]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (415)
+[2023.02.04-08.19.59:949][  8]LogModuleManager: Shutting down and abandoning module FacialAnimation (413)
+[2023.02.04-08.19.59:949][  8]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (411)
+[2023.02.04-08.19.59:949][  8]LogModuleManager: Shutting down and abandoning module DataValidation (409)
+[2023.02.04-08.19.59:949][  8]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (407)
+[2023.02.04-08.19.59:950][  8]LogModuleManager: Shutting down and abandoning module TreeMap (406)
+[2023.02.04-08.19.59:950][  8]LogModuleManager: Shutting down and abandoning module GameplayCameras (403)
+[2023.02.04-08.19.59:950][  8]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (401)
+[2023.02.04-08.19.59:950][  8]LogModuleManager: Shutting down and abandoning module Synthesis (399)
+[2023.02.04-08.19.59:950][  8]LogModuleManager: Shutting down and abandoning module SoundFields (397)
+[2023.02.04-08.19.59:950][  8]LogModuleManager: Shutting down and abandoning module SignificanceManager (395)
+[2023.02.04-08.19.59:950][  8]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (393)
+[2023.02.04-08.19.59:951][  8]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (391)
+[2023.02.04-08.19.59:951][  8]LogModuleManager: Shutting down and abandoning module MetasoundEditor (389)
+[2023.02.04-08.19.59:952][  8]LogModuleManager: Shutting down and abandoning module AudioWidgets (388)
+[2023.02.04-08.19.59:952][  8]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (387)
+[2023.02.04-08.19.59:953][  8]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (383)
+[2023.02.04-08.19.59:953][  8]LogModuleManager: Shutting down and abandoning module MetasoundEngine (381)
+[2023.02.04-08.19.59:953][  8]LogModuleManager: Shutting down and abandoning module WaveTable (380)
+[2023.02.04-08.19.59:953][  8]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (378)
+[2023.02.04-08.19.59:954][  8]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (375)
+[2023.02.04-08.19.59:954][  8]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (373)
+[2023.02.04-08.19.59:955][  8]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (371)
+[2023.02.04-08.19.59:955][  8]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (369)
+[2023.02.04-08.19.59:956][  8]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (367)
+[2023.02.04-08.19.59:956][  8]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (365)
+[2023.02.04-08.19.59:956][  8]LogModuleManager: Shutting down and abandoning module CableComponent (363)
+[2023.02.04-08.19.59:956][  8]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (361)
+[2023.02.04-08.19.59:956][  8]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (360)
+[2023.02.04-08.19.59:956][  8]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (357)
+[2023.02.04-08.19.59:956][  8]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (355)
+[2023.02.04-08.19.59:956][  8]LogModuleManager: Shutting down and abandoning module Niagara (353)
+[2023.02.04-08.19.59:957][  8]LogModuleManager: Shutting down and abandoning module SignalProcessing (352)
+[2023.02.04-08.19.59:957][  8]LogModuleManager: Shutting down and abandoning module NiagaraEditor (350)
+[2023.02.04-08.19.59:958][  8]LogModuleManager: Shutting down and abandoning module ContentBrowser (349)
+[2023.02.04-08.19.59:958][  8]LogModuleManager: Shutting down and abandoning module ToolMenus (348)
+[2023.02.04-08.19.59:958][  8]LogModuleManager: Shutting down and abandoning module ContentBrowserData (346)
+[2023.02.04-08.19.59:958][  8]LogModuleManager: Shutting down and abandoning module NiagaraCore (341)
+[2023.02.04-08.19.59:958][  8]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (339)
+[2023.02.04-08.19.59:958][  8]LogModuleManager: Shutting down and abandoning module IKRig (337)
+[2023.02.04-08.19.59:958][  8]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (335)
+[2023.02.04-08.19.59:959][  8]LogModuleManager: Shutting down and abandoning module ControlRig (333)
+[2023.02.04-08.19.59:959][  8]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (331)
+[2023.02.04-08.19.59:961][  8]LogModuleManager: Shutting down and abandoning module PBIK (329)
+[2023.02.04-08.19.59:961][  8]LogModuleManager: Shutting down and abandoning module FullBodyIK (327)
+[2023.02.04-08.19.59:961][  8]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (325)
+[2023.02.04-08.19.59:961][  8]LogModuleManager: Shutting down and abandoning module TakeRecorder (324)
+[2023.02.04-08.19.59:962][  8]LogModuleManager: Shutting down and abandoning module LevelEditor (322)
+[2023.02.04-08.19.59:974][  8]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (321)
+[2023.02.04-08.19.59:974][  8]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (319)
+[2023.02.04-08.19.59:974][  8]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (317)
+[2023.02.04-08.19.59:976][  8]LogModuleManager: Shutting down and abandoning module MainFrame (315)
+[2023.02.04-08.19.59:976][  8]LogModuleManager: Shutting down and abandoning module HotReload (314)
+[2023.02.04-08.19.59:977][  8]LogModuleManager: Shutting down and abandoning module ChaosCaching (309)
+[2023.02.04-08.19.59:977][  8]LogModuleManager: Shutting down and abandoning module LevelSequence (308)
+[2023.02.04-08.19.59:977][  8]LogModuleManager: Shutting down and abandoning module Paper2D (305)
+[2023.02.04-08.19.59:977][  8]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (303)
+[2023.02.04-08.19.59:977][  8]LogModuleManager: Shutting down and abandoning module EnhancedInput (301)
+[2023.02.04-08.19.59:978][  8]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (299)
+[2023.02.04-08.19.59:979][  8]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (297)
+[2023.02.04-08.19.59:979][  8]LogModuleManager: Shutting down and abandoning module AndroidFileServer (295)
+[2023.02.04-08.19.59:979][  8]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (293)
+[2023.02.04-08.19.59:979][  8]LogModuleManager: Shutting down and abandoning module PacketHandler (291)
+[2023.02.04-08.19.59:979][  8]LogModuleManager: Shutting down and abandoning module TimeManagement (289)
+[2023.02.04-08.19.59:979][  8]LogModuleManager: Shutting down and abandoning module AnimationDataController (287)
+[2023.02.04-08.19.59:979][  8]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (285)
+[2023.02.04-08.19.59:979][  8]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (283)
+[2023.02.04-08.19.59:979][  8]LogModuleManager: Shutting down and abandoning module MediaAssets (281)
+[2023.02.04-08.19.59:979][  8]LogModuleManager: Shutting down and abandoning module Overlay (279)
+[2023.02.04-08.19.59:979][  8]LogModuleManager: Shutting down and abandoning module OverlayEditor (278)
+[2023.02.04-08.19.59:979][  8]LogModuleManager: Shutting down and abandoning module VREditor (275)
+[2023.02.04-08.19.59:979][  8]LogModuleManager: Shutting down and abandoning module StringTableEditor (273)
+[2023.02.04-08.19.59:979][  8]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (271)
+[2023.02.04-08.19.59:979][  8]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (269)
+[2023.02.04-08.19.59:980][  8]LogModuleManager: Shutting down and abandoning module FunctionalTesting (267)
+[2023.02.04-08.19.59:980][  8]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (265)
+[2023.02.04-08.19.59:981][  8]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (264)
+[2023.02.04-08.19.59:981][  8]LogModuleManager: Shutting down and abandoning module UMG (261)
+[2023.02.04-08.19.59:981][  8]LogModuleManager: Shutting down and abandoning module UMGEditor (260)
+[2023.02.04-08.19.59:982][  8]LogModuleManager: Shutting down and abandoning module EditorStyle (255)
+[2023.02.04-08.19.59:982][  8]LogModuleManager: Shutting down and abandoning module SlateReflector (253)
+[2023.02.04-08.19.59:985][  8]LogModuleManager: Shutting down and abandoning module Slate (251)
+[2023.02.04-08.19.59:985][  8]LogModuleManager: Shutting down and abandoning module SlateCore (249)
+[2023.02.04-08.19.59:987][  8]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (247)
+[2023.02.04-08.19.59:987][  8]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (245)
+[2023.02.04-08.19.59:987][  8]LogModuleManager: Shutting down and abandoning module UnrealEd (243)
+[2023.02.04-08.19.59:987][  8]LogModuleManager: Shutting down and abandoning module MRMesh (241)
+[2023.02.04-08.19.59:987][  8]LogModuleManager: Shutting down and abandoning module Messaging (239)
+[2023.02.04-08.19.59:987][  8]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (237)
+[2023.02.04-08.19.59:987][  8]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (235)
+[2023.02.04-08.19.59:987][  8]LogModuleManager: Shutting down and abandoning module Networking (233)
+[2023.02.04-08.19.59:987][  8]LogModuleManager: Shutting down and abandoning module Core (231)
+[2023.02.04-08.19.59:987][  8]LogModuleManager: Shutting down and abandoning module MaterialEditor (229)
+[2023.02.04-08.19.59:987][  8]LogModuleManager: Shutting down and abandoning module MovieSceneTools (227)
+[2023.02.04-08.19.59:988][  8]LogModuleManager: Shutting down and abandoning module CurveEditor (226)
+[2023.02.04-08.19.59:989][  8]LogModuleManager: Shutting down and abandoning module Sequencer (224)
+[2023.02.04-08.19.59:991][  8]LogModuleManager: Shutting down and abandoning module KismetCompiler (221)
+[2023.02.04-08.19.59:991][  8]LogModuleManager: Shutting down and abandoning module MeshBuilder (219)
+[2023.02.04-08.19.59:991][  8]LogModuleManager: Shutting down and abandoning module NaniteBuilder (217)
+[2023.02.04-08.19.59:991][  8]LogModuleManager: Shutting down and abandoning module MeshUtilities (215)
+[2023.02.04-08.19.59:991][  8]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (214)
+[2023.02.04-08.19.59:991][  8]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (213)
+[2023.02.04-08.19.59:991][  8]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (212)
+[2023.02.04-08.19.59:992][  8]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (210)
+[2023.02.04-08.19.59:992][  8]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (208)
+[2023.02.04-08.19.59:994][  8]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (206)
+[2023.02.04-08.19.59:994][  8]LogModuleManager: Shutting down and abandoning module MaterialBaking (202)
+[2023.02.04-08.19.59:995][  8]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (199)
+[2023.02.04-08.20.00:006][  8]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (195)
+[2023.02.04-08.20.00:006][  8]LogModuleManager: Shutting down and abandoning module DerivedDataCache (193)
+[2023.02.04-08.20.00:019][  8]LogModuleManager: Shutting down and abandoning module TargetPlatform (191)
+[2023.02.04-08.20.00:019][  8]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (190)
+[2023.02.04-08.20.00:019][  8]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (188)
+[2023.02.04-08.20.00:020][  8]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (186)
+[2023.02.04-08.20.00:021][  8]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (184)
+[2023.02.04-08.20.00:021][  8]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (182)
+[2023.02.04-08.20.00:021][  8]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (180)
+[2023.02.04-08.20.00:021][  8]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (178)
+[2023.02.04-08.20.00:021][  8]LogModuleManager: Shutting down and abandoning module AudioFormatBink (176)
+[2023.02.04-08.20.00:021][  8]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (174)
+[2023.02.04-08.20.00:022][  8]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2023.02.04-08.20.00:022][  8]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (165)
+[2023.02.04-08.20.00:022][  8]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (163)
+[2023.02.04-08.20.00:022][  8]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (161)
+[2023.02.04-08.20.00:022][  8]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (159)
+[2023.02.04-08.20.00:022][  8]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (157)
+[2023.02.04-08.20.00:023][  8]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (155)
+[2023.02.04-08.20.00:023][  8]LogModuleManager: Shutting down and abandoning module TextureFormat (153)
+[2023.02.04-08.20.00:023][  8]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2023.02.04-08.20.00:023][  8]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (150)
+[2023.02.04-08.20.00:024][  8]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (148)
+[2023.02.04-08.20.00:024][  8]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (146)
+[2023.02.04-08.20.00:024][  8]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2023.02.04-08.20.00:024][  8]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2023.02.04-08.20.00:024][  8]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (140)
+[2023.02.04-08.20.00:024][  8]LogModuleManager: Shutting down and abandoning module TurnkeySupport (137)
+[2023.02.04-08.20.00:025][  8]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2023.02.04-08.20.00:025][  8]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2023.02.04-08.20.00:025][  8]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (130)
+[2023.02.04-08.20.00:025][  8]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (128)
+[2023.02.04-08.20.00:025][  8]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (127)
+[2023.02.04-08.20.00:025][  8]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.02.04-08.20.00:025][  8]LogModuleManager: Shutting down and abandoning module GeometryCore (123)
+[2023.02.04-08.20.00:026][  8]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (120)
+[2023.02.04-08.20.00:026][  8]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (119)
+[2023.02.04-08.20.00:026][  8]LogModuleManager: Shutting down and abandoning module AVEncoder (118)
+[2023.02.04-08.20.00:026][  8]LogModuleManager: Shutting down and abandoning module D3D11RHI (114)
+[2023.02.04-08.20.00:026][  8]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (112)
+[2023.02.04-08.20.00:026][  8]LogModuleManager: Shutting down and abandoning module AISupportModule (110)
+[2023.02.04-08.20.00:026][  8]LogModuleManager: Shutting down and abandoning module PixWinPlugin (108)
+[2023.02.04-08.20.00:026][  8]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (106)
+[2023.02.04-08.20.00:026][  8]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (104)
+[2023.02.04-08.20.00:026][  8]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (102)
+[2023.02.04-08.20.00:031][  8]LogModuleManager: Shutting down and abandoning module XMPP (97)
+[2023.02.04-08.20.00:032][  8]LogModuleManager: Shutting down and abandoning module WebSockets (96)
+[2023.02.04-08.20.00:064][  8]LogModuleManager: Shutting down and abandoning module HTTP (93)
+[2023.02.04-08.20.00:065][  8]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2023.02.04-08.20.00:065][  8]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF1E5228E-416A-D10A-A6AB-4B83864C5D2C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=fb5a67ff43571440611025bbc46bbc23%7Cd95818af182d41358111071f87fc7ffa%7Ce7afc5a6-bb77-4946-a596-2d4d3ae65010&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.02.04-08.20.00:082][  8]LogModuleManager: Shutting down and abandoning module SSL (92)
+[2023.02.04-08.20.00:085][  8]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (88)
+[2023.02.04-08.20.00:085][  8]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (86)
+[2023.02.04-08.20.00:086][  8]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (84)
+[2023.02.04-08.20.00:086][  8]LogModuleManager: Shutting down and abandoning module VariantManagerContent (82)
+[2023.02.04-08.20.00:086][  8]LogModuleManager: Shutting down and abandoning module GLTFExporter (80)
+[2023.02.04-08.20.00:087][  8]LogModuleManager: Shutting down and abandoning module DatasmithContent (78)
+[2023.02.04-08.20.00:087][  8]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2023.02.04-08.20.00:091][  8]LogModuleManager: Shutting down and abandoning module Media (75)
+[2023.02.04-08.20.00:093][  8]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (72)
+[2023.02.04-08.20.00:093][  8]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (70)
+[2023.02.04-08.20.00:093][  8]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2023.02.04-08.20.00:093][  8]LogModuleManager: Shutting down and abandoning module ChunkDownloader (66)
+[2023.02.04-08.20.00:093][  8]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (64)
+[2023.02.04-08.20.00:093][  8]LogModuleManager: Shutting down and abandoning module NiagaraShader (62)
+[2023.02.04-08.20.00:093][  8]LogModuleManager: Shutting down and abandoning module ChaosCloth (60)
+[2023.02.04-08.20.00:094][  8]LogModuleManager: Shutting down and abandoning module DesktopPlatform (58)
+[2023.02.04-08.20.00:094][  8]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (56)
+[2023.02.04-08.20.00:095][  8]LogModuleManager: Shutting down and abandoning module SourceControl (55)
+[2023.02.04-08.20.00:096][  8]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (52)
+[2023.02.04-08.20.00:096][  8]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (50)
+[2023.02.04-08.20.00:096][  8]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (48)
+[2023.02.04-08.20.00:096][  8]LogModuleManager: Shutting down and abandoning module PlatformCrypto (46)
+[2023.02.04-08.20.00:096][  8]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2023.02.04-08.20.00:097][  8]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2023.02.04-08.20.00:098][  8]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.02.04-08.20.00:098][  8]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.02.04-08.20.00:100][  8]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.02.04-08.20.00:100][  8]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.02.04-08.20.00:100][  8]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.02.04-08.20.00:100][  8]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.02.04-08.20.00:100][  8]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.02.04-08.20.00:100][  8]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.02.04-08.20.00:100][  8]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.02.04-08.20.00:102][  8]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.02.04-08.20.00:102][  8]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.02.04-08.20.00:103][  8]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.02.04-08.20.00:103][  8]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.02.04-08.20.00:103][  8]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.02.04-08.20.00:103][  8]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.02.04-08.20.00:103][  8]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.02.04-08.20.00:103][  8]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.02.04-08.20.00:104][  8]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.02.04-08.20.00:104][  8]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.02.04-08.20.00:104][  8]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.02.04-08.20.00:111][  8]LogD3D11RHI: Shutdown
+[2023.02.04-08.20.00:111][  8]LogD3D11RHI: CleanupD3DDevice
+[2023.02.04-08.20.00:180][  8]LogExit: Exiting.
+[2023.02.04-08.20.00:199][  8]Log file closed, 02/04/23 00:20:00

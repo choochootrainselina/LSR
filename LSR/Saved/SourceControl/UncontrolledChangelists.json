@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/rfu/Documents/ggj/LSR/LSR/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/rfu/Documents/ggj/LSR/LSR/Content/material/coral_MAT.uasset",
+				"C:/Users/rfu/Documents/ggj/LSR/LSR/Content/material/coral_INS.uasset",
+				"C:/Users/rfu/Documents/ggj/LSR/LSR/Content/material/vfx_LVL.umap",
 				"E:/unreal projects/LSR/LSR/Content/StarterContent/Audio/Collapse01.uasset",
 				"E:/unreal projects/LSR/LSR/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"E:/unreal projects/LSR/LSR/Content/StarterContent/Particles/P_Ambient_Dust.uasset",

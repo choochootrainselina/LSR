@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"T:/LSR/LSR/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"T:/LSR/LSR/Content/Audio/Default_music.uasset",
+				"T:/LSR/LSR/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/CM/8NX54N8IHMNIYQ4TFZCYEU.uasset",
+				"T:/LSR/LSR/Content/Audio/pick_up_item_1.uasset",
+				"T:/LSR/LSR/Content/Audio/pick_up_item_2.uasset",
+				"T:/LSR/LSR/Content/Audio/pick_up_item_3.uasset",
+				"T:/LSR/LSR/Content/Audio/Underwater_default.uasset",
 				"C:/Users/rfu/Documents/ggj/LSR/LSR/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/rfu/Documents/ggj/LSR/LSR/Content/material/coral_MAT.uasset",
 				"C:/Users/rfu/Documents/ggj/LSR/LSR/Content/material/coral_INS.uasset",
